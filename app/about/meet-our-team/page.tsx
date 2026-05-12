@@ -31,7 +31,7 @@ export default function MeetOurTeamPage() {
             <span className="text-gradient-gold">Bal Dental Centre</span>
           </>
         }
-        description="Six award-winning clinicians, one warm coordinator, and a shared belief that every patient deserves to be treated like family. Get to know the people you'll be smiling alongside for years to come."
+        description="Seven licensed dentists led by founder Dr. Gus Bal, supported by a multilingual hygiene and administrative team — and a shared belief that every patient deserves to be treated like family. Get to know the people you'll be smiling alongside for years to come."
         image="/images-about/team-hero.jpg"
         imageAlt="Dentist with smiling patient at Bal Dental Centre"
         breadcrumbs={[
