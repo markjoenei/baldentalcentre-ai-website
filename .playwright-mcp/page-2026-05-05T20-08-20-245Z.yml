@@ -1,0 +1,244 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Red Maple Dental" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img "Red Maple Dental" [ref=e6]
+        - button "Toggle menu" [ref=e8]
+    - generic [ref=e13]:
+      - img "Red Maple Dental office exterior in Brampton" [ref=e15]
+      - generic [ref=e20]:
+        - paragraph [ref=e21]: Gentle & Family-Friendly Dentistry in Brampton, ON
+        - heading "Your Neighborhood Dentist" [level=1] [ref=e22]
+        - generic [ref=e23]:
+          - link "Book Appointment" [ref=e24] [cursor=pointer]:
+            - /url: /contact-us
+          - link "OR CALL 905-913-2223" [ref=e25] [cursor=pointer]:
+            - /url: tel:9059132223
+    - generic [ref=e28]:
+      - generic [ref=e30]:
+        - heading "Welcome to Red Maple Dental" [level=2] [ref=e31]
+        - paragraph [ref=e32]: Welcome to Red Maple Dental, your friendly neighborhood dentist in Brampton, Ontario! Open six days a week, we provide exceptional dental care for patients of all ages. Whether you're looking for a reliable family dentist or need urgent treatment, we offer direct insurance billing, flexible payment options, and same-day emergency appointments.
+        - paragraph [ref=e33]:
+          - link "Book an appointment today and join our family of patients for life." [ref=e34] [cursor=pointer]:
+            - /url: /contact-us/
+        - generic [ref=e35]:
+          - img [ref=e37]
+          - generic [ref=e41]:
+            - paragraph [ref=e43]: A dental practice emphasizing compassion and community
+            - paragraph [ref=e45]: Meet Drs. Parul & Alampreet – Brampton dentists who love to make you smile!
+        - paragraph [ref=e47]: “Be proud of your smile! As your partners in whole-mouth health, we're committed to providing exceptional dental care with a personal touch. We can't wait to get to know you and our friendly staff looks forward to meeting you.”
+      - img "Beautiful smile — Red Maple Dental" [ref=e49]
+    - generic [ref=e50]:
+      - generic:
+        - img
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - heading "Your family's one-stop-shop for dental care" [level=2] [ref=e54]
+          - paragraph [ref=e55]: We offer comprehensive dental services to meet all your needs — from emergency care and family dentistry to cosmetic treatments and dental implants. Our experienced dentists provide exceptional care with a personal touch. Not sure what your smile needs? Start with a consultation and we'll go from there!
+        - generic [ref=e56]:
+          - link "GENERAL" [ref=e58] [cursor=pointer]:
+            - /url: /family-dentistry
+            - generic [ref=e59]:
+              - img [ref=e60]
+              - generic [ref=e62]: GENERAL
+          - link "COSMETIC" [ref=e64] [cursor=pointer]:
+            - /url: /cosmetic-care
+            - generic [ref=e65]:
+              - img [ref=e66]
+              - generic [ref=e68]: COSMETIC
+          - link "RESTORATIVE" [ref=e70] [cursor=pointer]:
+            - /url: /restorative-dentistry
+            - generic [ref=e71]:
+              - img [ref=e72]
+              - generic [ref=e74]: RESTORATIVE
+    - generic [ref=e75]:
+      - generic:
+        - img
+      - generic [ref=e77]:
+        - heading "We accept your insurance" [level=2] [ref=e78]
+        - paragraph [ref=e79]:
+          - text: We accept most major dental insurance plans and offer direct billing for your convenience. Give us a call at
+          - link "905-913-2223" [ref=e80] [cursor=pointer]:
+            - /url: tel:9059132223
+          - text: and we'll verify your coverage. We also offer 0% financing options.
+    - generic [ref=e81]:
+      - generic:
+        - img
+      - generic [ref=e82]:
+        - generic [ref=e83]: FAQs
+        - generic [ref=e84]:
+          - heading "Frequently Asked Questions" [level=2] [ref=e86]
+          - generic [ref=e87]:
+            - button "What makes Red Maple Dental different from other Brampton dentists?" [ref=e89]:
+              - heading "What makes Red Maple Dental different from other Brampton dentists?" [level=5] [ref=e90]
+              - generic [ref=e91]: +
+            - button "Do you accept new patients at your Brampton dental office?" [ref=e93]:
+              - heading "Do you accept new patients at your Brampton dental office?" [level=5] [ref=e94]
+              - generic [ref=e95]: +
+            - button "What insurance plans do you accept?" [ref=e97]:
+              - heading "What insurance plans do you accept?" [level=5] [ref=e98]
+              - generic [ref=e99]: +
+            - button "Where is your office located?" [ref=e101]:
+              - heading "Where is your office located?" [level=5] [ref=e102]
+              - generic [ref=e103]: +
+            - button "What dental services do you offer?" [ref=e105]:
+              - heading "What dental services do you offer?" [level=5] [ref=e106]
+              - generic [ref=e107]: +
+            - button "What should I expect during my first visit?" [ref=e109]:
+              - heading "What should I expect during my first visit?" [level=5] [ref=e110]
+              - generic [ref=e111]: +
+            - button "Do you treat children and seniors?" [ref=e113]:
+              - heading "Do you treat children and seniors?" [level=5] [ref=e114]
+              - generic [ref=e115]: +
+            - button "What if I need urgent dental care?" [ref=e117]:
+              - heading "What if I need urgent dental care?" [level=5] [ref=e118]
+              - generic [ref=e119]: +
+    - generic [ref=e122]:
+      - generic [ref=e123]:
+        - img "Red Maple Dental office interior" [ref=e125]
+        - img "Red Maple Dental treatment room" [ref=e127]
+        - img "Red Maple Dental team" [ref=e129]
+      - generic [ref=e130]:
+        - heading "This Is Us" [level=2] [ref=e132]
+        - generic [ref=e135]:
+          - heading "Comfort" [level=3] [ref=e136]
+          - paragraph [ref=e137]: Gentle hands, caring experience
+        - generic [ref=e140]:
+          - heading "Convenience" [level=3] [ref=e141]
+          - paragraph [ref=e142]: Open 6 days a week, direct insurance billing
+        - generic [ref=e145]:
+          - heading "Transparency" [level=3] [ref=e146]
+          - paragraph [ref=e147]: Clear pricing, honest care
+        - generic [ref=e150]:
+          - heading "Welcoming" [level=3] [ref=e151]
+          - paragraph [ref=e152]: Accepting new patients of all ages, from kids to adults
+    - generic [ref=e155]:
+      - heading "Hear from our patients" [level=2] [ref=e156]
+      - generic [ref=e157]:
+        - paragraph [ref=e158]: “Best dental office I've ever been to. The team at Red Maple Dental is professional, caring, and always makes me feel welcome. The hygienists and office staff are amazing. I recommend them 100%!”
+        - paragraph [ref=e159]: – Google Review
+      - generic [ref=e160]:
+        - img "Google review 1 for Red Maple Dental" [ref=e162]
+        - img "Google review 2 for Red Maple Dental" [ref=e164]
+        - img "Google review 3 for Red Maple Dental" [ref=e166]
+    - generic [ref=e169]:
+      - img [ref=e171]
+      - generic [ref=e179]:
+        - heading "See You Soon" [level=2] [ref=e180]
+        - paragraph [ref=e181]: We'd love to welcome you to our dental family! Whether you're booking your first visit or returning for a check-up, our Brampton team is ready to give you the exceptional care you deserve.
+        - paragraph [ref=e182]:
+          - link "905-913-2223" [ref=e183] [cursor=pointer]:
+            - /url: tel:9059132223
+        - link "Book Appointment" [ref=e184] [cursor=pointer]:
+          - /url: /contact-us
+    - generic [ref=e187]:
+      - generic [ref=e188]:
+        - heading "Our Office" [level=2] [ref=e189]
+        - paragraph [ref=e190]: We're located in Northeast Brampton — easy to find and with plenty of free parking on site. We strive to create a welcoming, comfortable environment where you'll feel at ease from the moment you walk in.
+        - generic [ref=e191]:
+          - paragraph [ref=e192]:
+            - text: 6475 Mayfield Rd Unit 104
+            - text: Brampton, ON L6P 4N2
+          - link "Get Directions →" [ref=e193] [cursor=pointer]:
+            - /url: https://maps.app.goo.gl/CEDTP23bXwrZZGEz7
+        - generic [ref=e194]:
+          - heading "Hours" [level=3] [ref=e195]
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - generic [ref=e198]: Monday – Friday
+              - generic [ref=e199]: 9am – 8pm
+            - generic [ref=e200]:
+              - generic [ref=e201]: Saturday – Sunday
+              - generic [ref=e202]: 9am – 5pm
+      - generic [ref=e203]:
+        - img "Visit Red Maple Dental in Brampton" [ref=e205]
+        - iframe [ref=e207]
+    - generic [ref=e210]:
+      - paragraph [ref=e211]: Accepted Insurance Plans
+      - img "Accepted insurance plans — Red Maple Dental" [ref=e213]
+    - contentinfo [ref=e214]:
+      - generic [ref=e215]:
+        - img "Red Maple Dental" [ref=e217]
+        - generic [ref=e218]:
+          - generic [ref=e219]:
+            - heading "Services" [level=4] [ref=e220]
+            - list [ref=e221]:
+              - listitem [ref=e222]:
+                - link "General / Family Dentistry" [ref=e223] [cursor=pointer]:
+                  - /url: /services
+              - listitem [ref=e224]:
+                - link "Cosmetic Care" [ref=e225] [cursor=pointer]:
+                  - /url: /services
+              - listitem [ref=e226]:
+                - link "Restorative Dentistry" [ref=e227] [cursor=pointer]:
+                  - /url: /services
+              - listitem [ref=e228]:
+                - link "Children's Dentistry" [ref=e229] [cursor=pointer]:
+                  - /url: /services
+              - listitem [ref=e230]:
+                - link "Orthodontics" [ref=e231] [cursor=pointer]:
+                  - /url: /services
+              - listitem [ref=e232]:
+                - link "Sedation Dentistry" [ref=e233] [cursor=pointer]:
+                  - /url: /services
+          - generic [ref=e234]:
+            - heading "Practice" [level=4] [ref=e235]
+            - list [ref=e236]:
+              - listitem [ref=e237]:
+                - link "Home" [ref=e238] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e239]:
+                - link "About Us" [ref=e240] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e241]:
+                - link "For New Patients" [ref=e242] [cursor=pointer]:
+                  - /url: /for-patients
+              - listitem [ref=e243]:
+                - link "Book Appointment" [ref=e244] [cursor=pointer]:
+                  - /url: /contact-us
+          - generic [ref=e245]:
+            - heading "Office" [level=4] [ref=e246]
+            - generic [ref=e247]:
+              - paragraph [ref=e248]: 6475 Mayfield Rd Unit 104
+              - paragraph [ref=e249]: Brampton, ON L6P 4N2
+              - link "905-913-2223" [ref=e250] [cursor=pointer]:
+                - /url: tel:9059132223
+              - link "Get Directions" [ref=e251] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/CEDTP23bXwrZZGEz7
+              - generic [ref=e252]:
+                - paragraph [ref=e253]: "Mon–Fri: 9am–8pm"
+                - paragraph [ref=e254]: "Sat–Sun: 9am–5pm"
+          - generic [ref=e255]:
+            - heading "Review Us" [level=4] [ref=e256]
+            - list [ref=e257]:
+              - listitem [ref=e258]:
+                - link "Google" [ref=e259] [cursor=pointer]:
+                  - /url: https://g.page/r/CUsfMA-J7oeDEAE/review
+              - listitem [ref=e260]:
+                - link "Facebook" [ref=e261] [cursor=pointer]:
+                  - /url: https://www.facebook.com/redmapledental
+          - generic [ref=e262]:
+            - heading "Social" [level=4] [ref=e263]
+            - generic [ref=e264]:
+              - link "Red Maple Dental on Facebook" [ref=e265] [cursor=pointer]:
+                - /url: https://www.facebook.com/redmapledental
+                - img [ref=e266]
+              - link "Red Maple Dental on Instagram" [ref=e268] [cursor=pointer]:
+                - /url: https://www.instagram.com/redmapledental
+                - img [ref=e269]
+        - generic [ref=e272]:
+          - paragraph [ref=e273]:
+            - text: © Red Maple Dental 2026 |
+            - link "Privacy Policy" [ref=e274] [cursor=pointer]:
+              - /url: /privacy-policy
+            - text: "|"
+            - link "Accessibility Statement" [ref=e275] [cursor=pointer]:
+              - /url: /accessibility
+          - paragraph [ref=e276]:
+            - text: Dental Website Design by
+            - link "PracPros" [ref=e277] [cursor=pointer]:
+              - /url: https://pracpros.com
+  - button "Open Next.js Dev Tools" [ref=e283] [cursor=pointer]:
+    - img [ref=e284]

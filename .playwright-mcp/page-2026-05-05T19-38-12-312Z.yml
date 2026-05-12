@@ -1,0 +1,89 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Red Maple Dental" [ref=e10] [cursor=pointer]:
+          - /url: https://redmapledental.ca/
+          - img "Red Maple Dental" [ref=e11]
+        - navigation "Menu" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "HOME" [ref=e17] [cursor=pointer]:
+                - /url: https://redmapledental.ca/
+            - listitem [ref=e18]:
+              - link "ABOUT US Menu Toggle" [ref=e19] [cursor=pointer]:
+                - /url: /about-us/
+                - text: ABOUT US
+                - button "Menu Toggle"
+                - img [ref=e21]
+            - listitem [ref=e23]:
+              - generic [ref=e24]:
+                - text: DENTAL SERVICES
+                - button "Menu Toggle"
+                - img [ref=e26]
+            - listitem [ref=e28]:
+              - link "FOR PATIENTS Menu Toggle" [ref=e29] [cursor=pointer]:
+                - /url: https://redmapledental.ca/for-patients/
+                - text: FOR PATIENTS
+                - button "Menu Toggle"
+                - img [ref=e31]
+            - listitem [ref=e33]:
+              - link "Blog" [ref=e34] [cursor=pointer]:
+                - /url: https://redmapledental.ca/blog/
+            - listitem [ref=e35]:
+              - link "CONTACT US" [ref=e36] [cursor=pointer]:
+                - /url: https://redmapledental.ca/contact-us/
+        - button "Call 905-913-2223" [ref=e39] [cursor=pointer]:
+          - text: Call
+          - img [ref=e41]
+          - text: 905-913-2223
+      - text:    
+    - main [ref=e49]:
+      - article [ref=e50]:
+        - generic [ref=e52]:
+          - list [ref=e57]:
+            - listitem [ref=e58]:
+              - link "Home" [ref=e59] [cursor=pointer]:
+                - /url: https://redmapledental.ca
+            - listitem [ref=e60]: »
+            - listitem [ref=e61]: Contact Us
+          - generic [ref=e63]:
+            - generic [ref=e68]:
+              - heading "Get In Touch!" [level=2] [ref=e70]
+              - heading "Office Hours" [level=2] [ref=e72]
+              - list [ref=e74]:
+                - listitem [ref=e75]:
+                  - generic [ref=e76]: "Monday - Friday : 9am - 8pm"
+                - listitem [ref=e77]:
+                  - generic [ref=e78]: "Saturday - Sunday : 9am - 5pm"
+              - heading "Location" [level=2] [ref=e80]
+              - list [ref=e82]:
+                - listitem [ref=e83]:
+                  - generic [ref=e84]:
+                    - text: 6475 Mayfield Rd Unit 104,
+                    - text: Brampton, ON L6P 4N2
+              - link "Get Directions" [ref=e90] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/CEDTP23bXwrZZGEz7
+                - generic [ref=e91]: Get Directions
+            - generic [ref=e92]:
+              - heading "Email Us" [level=2] [ref=e94]
+              - generic [ref=e99]:
+                - generic [ref=e100]: Leave this field blank
+                - textbox "Name" [ref=e105]
+                - textbox "Phone" [ref=e111]
+                - textbox "Email" [ref=e116]
+                - textbox "Message" [ref=e120]
+                - button "Send" [ref=e122] [cursor=pointer]
+    - contentinfo [ref=e123]:
+      - iframe [ref=e129]:
+        
+  - generic [ref=e140]: desktop
+  - generic "Live chat button":
+    - generic [ref=e142] [cursor=pointer]:
+      - generic: Live Chat
+  - iframe [ref=e149]:
+    - generic [ref=f12e6]:
+      - text: protected by
+      - strong [ref=f12e7]: reCAPTCHA

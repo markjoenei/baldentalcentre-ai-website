@@ -1,0 +1,2629 @@
+{
+  "allImgs": [
+    {
+      "src": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental_Logo.png",
+      "dataSrc": null,
+      "srcset": "",
+      "alt": "Bal Dental Centre – trusted dentist in Scarborough",
+      "width": 112,
+      "height": 70,
+      "classes": "attachment-full size-full wp-image-25",
+      "parentClasses": ""
+    },
+    {
+      "src": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental-IMG-Award.png",
+      "dataSrc": null,
+      "srcset": "",
+      "alt": "",
+      "width": 205,
+      "height": 163,
+      "classes": "attachment-large size-large wp-image-128",
+      "parentClasses": "elementor-element elementor-element-5a2208c elementor-widget-mobile__width-initial exwb-magnet-no exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-image"
+    },
+    {
+      "src": "https://baldentalcentre.com/wp-content/uploads/elementor/thumbs/beautiful-smiling-faces-41-qj10x1dspdid5l28j847re8hsk13l9htz8kt6zqy1s.jpeg",
+      "dataSrc": null,
+      "srcset": "",
+      "alt": "beautiful-smiling-faces-41",
+      "width": 289,
+      "height": 400,
+      "classes": "",
+      "parentClasses": "elementor-element elementor-element-58921fc elementor-widget__width-initial elementor-widget-mobile__width-initial exwb-magnet-no exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-image"
+    },
+    {
+      "src": "https://baldentalcentre.com/wp-content/uploads/elementor/thumbs/beautiful-smiling-faces-26-qiw0law1sh3ykxjfd2sfsw0i7r5u8mv6vmu4a4hilm.png",
+      "dataSrc": null,
+      "srcset": "",
+      "alt": "beautiful-smiling-faces-26",
+      "width": 379,
+      "height": 401,
+      "classes": "",
+      "parentClasses": "elementor-element elementor-element-a7edae2 elementor-widget__width-initial elementor-widget-mobile__width-initial exwb-magnet-no exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-image"
+    },
+    {
+      "src": "https://baldentalcentre.com/wp-content/uploads/elementor/thumbs/beautiful-smiling-faces-14-qivt3gzalyyuvw28erezx92vwhimw4jzonflpbrjo2.png",
+      "dataSrc": null,
+      "srcset": "",
+      "alt": "beautiful-smiling-faces-14",
+      "width": 690,
+      "height": 277,
+      "classes": "",
+      "parentClasses": "elementor-element elementor-element-885a8e5 elementor-widget__width-inherit exwb-magnet-no exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-image"
+    },
+    {
+      "src": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental-IMG-DentalNearYou.png",
+      "dataSrc": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental-IMG-DentalNearYou.png",
+      "srcset": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental-IMG-DentalNearYou.png 676w, https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental-IMG-DentalNearYou-300x252.png 300w",
+      "alt": "",
+      "width": 676,
+      "height": 568,
+      "classes": "attachment-large size-large wp-image-407 entered lazyloaded",
+      "parentClasses": "elementor-element elementor-element-39ddefa elementor-widget-tablet__width-inherit exwb-magnet-no exad-sticky-section-no exad-glass-effect-no elementor-widget elementor-widget-image"
+    },
+    {
+      "src": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental_Logo.png",
+      "dataSrc": null,
+      "srcset": "",
+      "alt": "Bal Dental Centre – trusted dentist in Scarborough",
+      "width": 112,
+      "height": 70,
+      "classes": "attachment-full size-full wp-image-25",
+      "parentClasses": ""
+    },
+    {
+      "src": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental_Logo.png",
+      "dataSrc": null,
+      "srcset": "",
+      "alt": "Bal Dental Centre – trusted dentist in Scarborough",
+      "width": 112,
+      "height": 70,
+      "classes": "attachment-full size-full wp-image-25",
+      "parentClasses": ""
+    },
+    {
+      "src": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental_Logo.png",
+      "dataSrc": null,
+      "srcset": "",
+      "alt": "Bal Dental Centre – trusted dentist in Scarborough",
+      "width": 112,
+      "height": 70,
+      "classes": "attachment-full size-full wp-image-25",
+      "parentClasses": ""
+    }
+  ],
+  "allBgs": [
+    {
+      "url": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental-IMG-Smiles.png",
+      "elTag": "DIV",
+      "elId": "",
+      "elClass": "elementor-element elementor-element-ae1cfd5 e-flex e-con-box",
+      "bgSize": "auto",
+      "bgPosition": "100% 50%"
+    },
+    {
+      "url": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental-IMG-Grid.png",
+      "elTag": "DIV",
+      "elId": "",
+      "elClass": "elementor-element elementor-element-8cd0c13 e-flex e-con-box",
+      "bgSize": "auto",
+      "bgPosition": "0% 0%"
+    }
+  ],
+  "swiperSlides": [
+    {
+      "index": 0,
+      "bgUrl": null,
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "heading": "COMPREHENSIVE DENTAL CARE For Scarborough Families of All Ages",
+      "desc": "Finding a new dentist close by can be a chore. Scouring online reviews… asking friends, family and c",
+      "btnText": "COMPREHENSIVE DENTAL CARE For Scarborough Families of All AgesFinding a new dentist close by can be a chore. Scouring online reviews… asking friends, family and co-workers… researching websites. It’s easy to get lost in it all. Read more",
+      "btnHref": "https://baldentalcentre.com/preventive-dentistry/#checkups",
+      "btnClass": "swiper-slide-inner",
+      "classes": "elementor-repeater-item-b60d6f2 swiper-slide"
+    },
+    {
+      "index": 1,
+      "bgUrl": null,
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "heading": "DENTAL CROWNS & BRIDGES Restore Teeth & Regain Confidence",
+      "desc": "Missing one or more teeth? Traditional dental crowns and bridges are a tried-and-true restorative de",
+      "btnText": "DENTAL CROWNS & BRIDGES Restore Teeth & Regain ConfidenceMissing one or more teeth? Traditional dental crowns and bridges are a tried-and-true restorative dentistry solution. Crowns can reverse damage and decay by restoring the top of..Read more",
+      "btnHref": "https://baldentalcentre.com/crowns-bridges/",
+      "btnClass": "swiper-slide-inner",
+      "classes": "elementor-repeater-item-499210e swiper-slide"
+    },
+    {
+      "index": 2,
+      "bgUrl": null,
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "heading": "DENTAL EMERGENCIES WELCOME Injured Tooth? In Pain?",
+      "desc": "Dental emergencies happen at the most inopportune times, but they can also be the product of poor de",
+      "btnText": "DENTAL EMERGENCIES WELCOME Injured Tooth? In Pain?Dental emergencies happen at the most inopportune times, but they can also be the product of poor dental hygiene.Read more",
+      "btnHref": "https://baldentalcentre.com/root-canals",
+      "btnClass": "swiper-slide-inner",
+      "classes": "elementor-repeater-item-5150eb4 swiper-slide"
+    },
+    {
+      "index": 3,
+      "bgUrl": null,
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "heading": "STUNNING COSMETIC DENTISTRY Get the Smile of Your Dreams",
+      "desc": "Cosmetic dentistry can dramatically transform even the most flawed smiles into picture-perfect works",
+      "btnText": "STUNNING COSMETIC DENTISTRY Get the Smile of Your DreamsCosmetic dentistry can dramatically transform even the most flawed smiles into picture-perfect works of art. Sometimes all it takes is simple teeth whiteningRead more",
+      "btnHref": "https://baldentalcentre.com/cosmetic-dentistry",
+      "btnClass": "swiper-slide-inner",
+      "classes": "elementor-repeater-item-1dda0e0 swiper-slide"
+    },
+    {
+      "index": 4,
+      "bgUrl": null,
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "heading": "MODERN DENTAL IMPLANTS Replace Missing Teeth",
+      "desc": "Dental implants are different from traditional tooth replacement options such as crowns, bridges, an",
+      "btnText": "MODERN DENTAL IMPLANTS Replace Missing TeethDental implants are different from traditional tooth replacement options such as crowns, bridges, and dentures because they replace the entire tooth’s structureRead more",
+      "btnHref": "https://baldentalcentre.com/dental-implants",
+      "btnClass": "swiper-slide-inner",
+      "classes": "elementor-repeater-item-4bdcdf2 swiper-slide"
+    },
+    {
+      "index": 5,
+      "bgUrl": null,
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "heading": "INVISALIGN® CLEAR BRACES Discreetly Straighten Teeth",
+      "desc": "Are you looking to straighten your smile but the thought of metal wires and brackets sounds less tha",
+      "btnText": "INVISALIGN® CLEAR BRACES Discreetly Straighten TeethAre you looking to straighten your smile but the thought of metal wires and brackets sounds less than ideal? We don’t blame you. Fortunately, Dr. Bal offers our Scarborough dental patientsRead more",
+      "btnHref": "https://baldentalcentre.com/invisalign-clear-braces",
+      "btnClass": "swiper-slide-inner",
+      "classes": "elementor-repeater-item-6fec7bf swiper-slide"
+    }
+  ],
+  "navItems": [
+    {
+      "text": "Home",
+      "href": "https://baldentalcentre.com/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "About Us",
+      "href": "https://baldentalcentre.com/about-us/",
+      "hasDropdown": true,
+      "depth": 0
+    },
+    {
+      "text": "Meet Our Team",
+      "href": "https://baldentalcentre.com/meet-our-team/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Why Us",
+      "href": "https://baldentalcentre.com/why-us/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Tour Our Office",
+      "href": "https://baldentalcentre.com/tour-our-office/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "How To Select The Best Dentist",
+      "href": "https://baldentalcentre.com/how-to-select-the-best-dentist/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Smile Gallery",
+      "href": "https://baldentalcentre.com/smile-gallery/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Blog",
+      "href": "https://baldentalcentre.com/blog/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "NIHB (First Nations)",
+      "href": "https://baldentalcentre.com/nihb-first-nations/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Our Services",
+      "href": "https://baldentalcentre.com/our-services/",
+      "hasDropdown": true,
+      "depth": 0
+    },
+    {
+      "text": "Preventive Dentistry",
+      "href": "https://baldentalcentre.com/preventive-dentistry/",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "Cleaning And Checkup",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#cleanings",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dental Sealants",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#dentalsealants",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Fluoride Treatments",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#fluoridetreatments",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Periodontal Therapy",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#Perioddontaltherapy",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Beyond Preventive Care",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#Beyondpreventivecare",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Restorative Dentistry",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "Dental Implants",
+      "href": "https://baldentalcentre.com/dental-implants/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dental Crowns & Bridges",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#DentalCrowns&Bridges",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dentures & Partials",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#Dentures&Partials",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Tooth-Colored Fillings",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#Tooth-ColoredFillings",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Root Canal",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#RootCanalTherapy",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Tooth Extractions",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#ToothExtractions",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Cosmetic Dentistry",
+      "href": "https://baldentalcentre.com/cosmetic-dentistry/",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "Porcelain Veneers​",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#PorcelainVeneers%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Teeth Whitening​",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#TeethWhitening%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Lumineers​",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#Lumineers%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Orthodontics",
+      "href": "https://baldentalcentre.com/orthodontics/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Composite Bonding",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#CompositeBonding",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Invisalign Clear Braces",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#InvisalignClearBraces%20%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Snap-On Smile",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#Snap-OnSmile",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Advanced Services & Technology",
+      "href": "https://baldentalcentre.com/#",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "TMJ Therapy",
+      "href": "https://baldentalcentre.com/tmj-therapy/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Sedation Dentistry",
+      "href": "https://baldentalcentre.com/sedation-dentistry/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dental Emergency",
+      "href": "https://baldentalcentre.com/dental-emergency/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "New Patients",
+      "href": "https://baldentalcentre.com/new-patients/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "Blog",
+      "href": "https://baldentalcentre.com/blog/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://baldentalcentre.com/contact-us/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "Home",
+      "href": "https://baldentalcentre.com/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "About Us",
+      "href": "https://baldentalcentre.com/about-us/",
+      "hasDropdown": true,
+      "depth": 0
+    },
+    {
+      "text": "Meet Our Team",
+      "href": "https://baldentalcentre.com/meet-our-team/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Why Us",
+      "href": "https://baldentalcentre.com/why-us/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Tour Our Office",
+      "href": "https://baldentalcentre.com/tour-our-office/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "How To Select The Best Dentist",
+      "href": "https://baldentalcentre.com/how-to-select-the-best-dentist/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Smile Gallery",
+      "href": "https://baldentalcentre.com/smile-gallery/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Blog",
+      "href": "https://baldentalcentre.com/blog/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "NIHB (First Nations)",
+      "href": "https://baldentalcentre.com/nihb-first-nations/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Our Services",
+      "href": "https://baldentalcentre.com/our-services/",
+      "hasDropdown": true,
+      "depth": 0
+    },
+    {
+      "text": "Preventive Dentistry",
+      "href": "https://baldentalcentre.com/preventive-dentistry/",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "Cleaning And Checkup",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#cleanings",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dental Sealants",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#dentalsealants",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Fluoride Treatments",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#fluoridetreatments",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Periodontal Therapy",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#Perioddontaltherapy",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Beyond Preventive Care",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#Beyondpreventivecare",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Restorative Dentistry",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "Dental Implants",
+      "href": "https://baldentalcentre.com/dental-implants/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dental Crowns & Bridges",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#DentalCrowns&Bridges",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dentures & Partials",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#Dentures&Partials",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Tooth-Colored Fillings",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#Tooth-ColoredFillings",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Root Canal",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#RootCanalTherapy",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Tooth Extractions",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#ToothExtractions",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Cosmetic Dentistry",
+      "href": "https://baldentalcentre.com/cosmetic-dentistry/",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "Porcelain Veneers​",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#PorcelainVeneers%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Teeth Whitening​",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#TeethWhitening%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Lumineers​",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#Lumineers%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Orthodontics",
+      "href": "https://baldentalcentre.com/orthodontics/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Composite Bonding",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#CompositeBonding",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Invisalign Clear Braces",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#InvisalignClearBraces%20%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Snap-On Smile",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#Snap-OnSmile",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Advanced Services & Technology",
+      "href": "https://baldentalcentre.com/#",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "TMJ Therapy",
+      "href": "https://baldentalcentre.com/tmj-therapy/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Sedation Dentistry",
+      "href": "https://baldentalcentre.com/sedation-dentistry/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dental Emergency",
+      "href": "https://baldentalcentre.com/dental-emergency/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "New Patients",
+      "href": "https://baldentalcentre.com/new-patients/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "Blog",
+      "href": "https://baldentalcentre.com/blog/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://baldentalcentre.com/contact-us/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "Home",
+      "href": "https://baldentalcentre.com/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "About Us",
+      "href": "https://baldentalcentre.com/about-us/",
+      "hasDropdown": true,
+      "depth": 0
+    },
+    {
+      "text": "Meet Our Team",
+      "href": "https://baldentalcentre.com/meet-our-team/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Why Us",
+      "href": "https://baldentalcentre.com/why-us/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Tour Our Office",
+      "href": "https://baldentalcentre.com/tour-our-office/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "How To Select The Best Dentist",
+      "href": "https://baldentalcentre.com/how-to-select-the-best-dentist/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Smile Gallery",
+      "href": "https://baldentalcentre.com/smile-gallery/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Blog",
+      "href": "https://baldentalcentre.com/blog/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "NIHB (First Nations)",
+      "href": "https://baldentalcentre.com/nihb-first-nations/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Our Services",
+      "href": "https://baldentalcentre.com/our-services/",
+      "hasDropdown": true,
+      "depth": 0
+    },
+    {
+      "text": "Preventive Dentistry",
+      "href": "https://baldentalcentre.com/preventive-dentistry/",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "Cleaning And Checkup",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#cleanings",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dental Sealants",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#dentalsealants",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Fluoride Treatments",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#fluoridetreatments",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Periodontal Therapy",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#Perioddontaltherapy",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Beyond Preventive Care",
+      "href": "https://baldentalcentre.com/getting-healthy-smiles-for-life-preventive-dentistry-in-scarborough/#Beyondpreventivecare",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Restorative Dentistry",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "Dental Implants",
+      "href": "https://baldentalcentre.com/dental-implants/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dental Crowns & Bridges",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#DentalCrowns&Bridges",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dentures & Partials",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#Dentures&Partials",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Tooth-Colored Fillings",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#Tooth-ColoredFillings",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Root Canal",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#RootCanalTherapy",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Tooth Extractions",
+      "href": "https://baldentalcentre.com/restore-your-gorgeous-smile-in-scarborough-with-restorative-dentistry/#ToothExtractions",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Cosmetic Dentistry",
+      "href": "https://baldentalcentre.com/cosmetic-dentistry/",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "Porcelain Veneers​",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#PorcelainVeneers%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Teeth Whitening​",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#TeethWhitening%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Lumineers​",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#Lumineers%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Orthodontics",
+      "href": "https://baldentalcentre.com/orthodontics/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Composite Bonding",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#CompositeBonding",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Invisalign Clear Braces",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#InvisalignClearBraces%20%E2%80%8B",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Snap-On Smile",
+      "href": "https://baldentalcentre.com/get-the-smile-you-are-most-proud-of-scarborough-cosmetic-dentistry/#Snap-OnSmile",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Advanced Services & Technology",
+      "href": "https://baldentalcentre.com/#",
+      "hasDropdown": true,
+      "depth": 1
+    },
+    {
+      "text": "TMJ Therapy",
+      "href": "https://baldentalcentre.com/tmj-therapy/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Sedation Dentistry",
+      "href": "https://baldentalcentre.com/sedation-dentistry/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "Dental Emergency",
+      "href": "https://baldentalcentre.com/dental-emergency/",
+      "hasDropdown": false,
+      "depth": 1
+    },
+    {
+      "text": "New Patients",
+      "href": "https://baldentalcentre.com/new-patients/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "Blog",
+      "href": "https://baldentalcentre.com/blog/",
+      "hasDropdown": false,
+      "depth": 0
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://baldentalcentre.com/contact-us/",
+      "hasDropdown": false,
+      "depth": 0
+    }
+  ],
+  "flipBoxes": [
+    {
+      "index": 0,
+      "frontBgColor": "rgb(26, 188, 156)",
+      "frontBgImg": null,
+      "frontImgSrc": null,
+      "frontTitle": null,
+      "backBgColor": "rgba(162, 132, 78, 0.81)",
+      "backBgImg": null,
+      "backImgSrc": null,
+      "backTitle": "Dental Implants",
+      "backDesc": "for $3,000  (all-inclusive)",
+      "backBtnText": null,
+      "backBtnHref": null
+    },
+    {
+      "index": 1,
+      "frontBgColor": "rgb(26, 188, 156)",
+      "frontBgImg": null,
+      "frontImgSrc": null,
+      "frontTitle": null,
+      "backBgColor": "rgba(162, 132, 78, 0.81)",
+      "backBgImg": null,
+      "backImgSrc": null,
+      "backTitle": "Invisalign",
+      "backDesc": "at $5,000",
+      "backBtnText": null,
+      "backBtnHref": null
+    },
+    {
+      "index": 2,
+      "frontBgColor": "rgb(26, 188, 156)",
+      "frontBgImg": null,
+      "frontImgSrc": null,
+      "frontTitle": null,
+      "backBgColor": "rgba(162, 132, 78, 0.81)",
+      "backBgImg": null,
+      "backImgSrc": null,
+      "backTitle": "Hygiene Services",
+      "backDesc": "at $99",
+      "backBtnText": null,
+      "backBtnHref": null
+    }
+  ],
+  "iconLists": [
+    {
+      "index": 0,
+      "items": [
+        {
+          "icon": "<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-map-marker-alt\" viewBox=\"0 0 384 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 1",
+          "text": "4 GREYSTONE WALK DR #4, SCARBOROUGH, ON M1K 5J2, CANADA"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "items": [
+        {
+          "icon": "<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-map-marker-alt\" viewBox=\"0 0 384 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 1",
+          "text": "4 GREYSTONE WALK DR #4, SCARBOROUGH, ON M1K 5J2, CANADA"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "items": [
+        {
+          "icon": "<i aria-hidden=\"true\" class=\"remixicon ri-phone-fill\"></i>",
+          "text": "416-267-6789"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "items": [
+        {
+          "icon": "<i aria-hidden=\"true\" class=\"remixicon ri-phone-fill\"></i>",
+          "text": "416-267-6789"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"36\" height=\"35\" viewBox=\"0 0 36 35\" fill=\"none\"><path d=\"M22.2546 24.7917V26.25C22.2546 28.6663 20.2959 30.625 17.8796 30.625C15.4634 30.625 13.5046 28.6",
+          "text": "Dental Emergencies Welcome"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"36\" height=\"35\" viewBox=\"0 0 36 35\" fill=\"none\"><path d=\"M22.2546 24.7917V26.25C22.2546 28.6663 20.2959 30.625 17.8796 30.625C15.4634 30.625 13.5046 28.6",
+          "text": "Dental Emergencies Welcome"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"35\" height=\"34\" viewBox=\"0 0 35 34\" fill=\"none\"><path d=\"M6.04626 11.3334H28.7129M6.04626 11.3334V23.8003C6.04626 25.3871 6.04626 26.1801 6.35508 26.7862",
+          "text": "Open 7 Days a Week"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"35\" height=\"34\" viewBox=\"0 0 35 34\" fill=\"none\"><path d=\"M6.04626 11.3334H28.7129M6.04626 11.3334V23.8003C6.04626 25.3871 6.04626 26.1801 6.35508 26.7862",
+          "text": "Open 7 Days a Week"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"31\" viewBox=\"0 0 32 31\" fill=\"none\"><path d=\"M12.6537 5.49891C12.2613 4.51812 11.3114 3.875 10.2551 3.875H6.70201C5.35036 3.875 4.25464 4.970",
+          "text": "416-267-6789"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"31\" viewBox=\"0 0 32 31\" fill=\"none\"><path d=\"M12.6537 5.49891C12.2613 4.51812 11.3114 3.875 10.2551 3.875H6.70201C5.35036 3.875 4.25464 4.970",
+          "text": "416-267-6789"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "items": [
+        {
+          "icon": "<i aria-hidden=\"true\" class=\"remixicon ri-map-pin-fill\"></i>",
+          "text": "4 Greystone Walk Dr #4, Scarborough, ON M1K 5J2, Canada"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "items": [
+        {
+          "icon": "<i aria-hidden=\"true\" class=\"remixicon ri-map-pin-fill\"></i>",
+          "text": "4 Greystone Walk Dr #4, Scarborough, ON M1K 5J2, Canada"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Preventive Dentistry"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Dental Crowns & Bridges"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Root Canals & Emergencies"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Preventive Dentistry"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Dental Crowns & Bridges"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Root Canals & Emergencies"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Cosmetic Dentistry"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Dental Implants"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Invisalign Clear Braces"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Cosmetic Dentistry"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Dental Implants"
+        },
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"42\" height=\"43\" viewBox=\"0 0 42 43\" fill=\"none\"><path d=\"M39.6831 21.3572C39.6831 31.7125 31.2884 40.1072 20.9331 40.1072C10.5778 40.1072 2.18311 31.7125",
+          "text": "Invisalign Clear Braces"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"34\" height=\"33\" viewBox=\"0 0 34 33\" fill=\"none\"><path d=\"M13.4455 5.85368C13.0279 4.80961 12.0167 4.125 10.8922 4.125H7.1099C5.67105 4.125 4.50464 5.2911",
+          "text": "416-267-6789"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"34\" height=\"33\" viewBox=\"0 0 34 33\" fill=\"none\"><path d=\"M13.4455 5.85368C13.0279 4.80961 12.0167 4.125 10.8922 4.125H7.1099C5.67105 4.125 4.50464 5.2911",
+          "text": "416-267-6789"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"40\" height=\"39\" viewBox=\"0 0 40 39\" fill=\"none\"><path d=\"M24.7546 9.75V34.125M24.7546 9.75L34.5046 4.875V29.25L24.7546 34.125M24.7546 9.75L15.0046 4.875M",
+          "text": "4 GREYSTONE WALK DR #4, SCARBOROUGH, ON M1K 5J2, CANADA"
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"40\" height=\"39\" viewBox=\"0 0 40 39\" fill=\"none\"><path d=\"M24.7546 9.75V34.125M24.7546 9.75L34.5046 4.875V29.25L24.7546 34.125M24.7546 9.75L15.0046 4.875M",
+          "text": "4 GREYSTONE WALK DR #4, SCARBOROUGH, ON M1K 5J2, CANADA"
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "items": [
+        {
+          "icon": "<i aria-hidden=\"true\" class=\"teenyicon ti-phone\"></i>",
+          "text": "647-490-0674"
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "items": [
+        {
+          "icon": "<i aria-hidden=\"true\" class=\"teenyicon ti-phone\"></i>",
+          "text": "647-490-0674"
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "items": [
+        {
+          "icon": "<i aria-hidden=\"true\" class=\"feather icon-mail\"></i>",
+          "text": "info@baldentalcentre.com"
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "items": [
+        {
+          "icon": "<i aria-hidden=\"true\" class=\"feather icon-mail\"></i>",
+          "text": "info@baldentalcentre.com"
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "items": [
+        {
+          "text": "Monday: 9:00am - 7:00pm"
+        },
+        {
+          "text": "Tuesday:  9:00am - 7:00pm"
+        },
+        {
+          "text": "Wednesday:  9:00am - 7:00pm"
+        },
+        {
+          "text": "Thursday:  9:00am - 7:00pm"
+        },
+        {
+          "text": "Friday:  9:00am - 7:00pm"
+        },
+        {
+          "text": "Saturday:  9:00am - 6:00pm"
+        },
+        {
+          "text": "Open 7 Days A Week"
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "items": [
+        {
+          "text": "Monday: 9:00am - 7:00pm"
+        },
+        {
+          "text": "Tuesday:  9:00am - 7:00pm"
+        },
+        {
+          "text": "Wednesday:  9:00am - 7:00pm"
+        },
+        {
+          "text": "Thursday:  9:00am - 7:00pm"
+        },
+        {
+          "text": "Friday:  9:00am - 7:00pm"
+        },
+        {
+          "text": "Saturday:  9:00am - 6:00pm"
+        },
+        {
+          "text": "Open 7 Days A Week"
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "items": [
+        {
+          "text": "English"
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "items": [
+        {
+          "text": "English"
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "items": [
+        {
+          "text": "Punjabi"
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "items": [
+        {
+          "text": "Punjabi"
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "items": [
+        {
+          "text": "Hindi"
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "items": [
+        {
+          "text": "Hindi"
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "items": [
+        {
+          "text": "Bangoli"
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "items": [
+        {
+          "text": "Bangoli"
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "items": [
+        {
+          "text": "Telugu"
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "items": [
+        {
+          "text": "Telugu"
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "items": [
+        {
+          "text": "Tagalog"
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "items": [
+        {
+          "text": "Tagalog"
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "items": [
+        {
+          "text": "Cantonese"
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "items": [
+        {
+          "text": "Cantonese"
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "items": [
+        {
+          "icon": "<i aria-hidden=\"true\" class=\"icon icon-map\"></i>",
+          "text": "4 GREYSTONE WALK DR #4, SCARBOROUGH, ON M1K 5J2, CANADA"
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "items": [
+        {
+          "icon": "<i aria-hidden=\"true\" class=\"icon icon-map\"></i>",
+          "text": "4 GREYSTONE WALK DR #4, SCARBOROUGH, ON M1K 5J2, CANADA"
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "items": [
+        {
+          "text": "Preventive Dentistry"
+        },
+        {
+          "text": "IV Sedation"
+        },
+        {
+          "text": "Restorative Dentistry"
+        },
+        {
+          "text": "Dentures & Partials"
+        },
+        {
+          "text": "Wisdom Tooth Extractions"
+        },
+        {
+          "text": "Dental Implants"
+        },
+        {
+          "text": "Cosmetic Dentistry"
+        },
+        {
+          "text": "Teeth Whitening"
+        },
+        {
+          "text": "Emergency Dentistry"
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "items": [
+        {
+          "text": "Preventive Dentistry"
+        },
+        {
+          "text": "IV Sedation"
+        },
+        {
+          "text": "Restorative Dentistry"
+        },
+        {
+          "text": "Dentures & Partials"
+        },
+        {
+          "text": "Wisdom Tooth Extractions"
+        },
+        {
+          "text": "Dental Implants"
+        },
+        {
+          "text": "Cosmetic Dentistry"
+        },
+        {
+          "text": "Teeth Whitening"
+        },
+        {
+          "text": "Emergency Dentistry"
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "items": [
+        {
+          "text": "Checkups & Cleanings"
+        },
+        {
+          "text": "Periodontal Therapy"
+        },
+        {
+          "text": "Crowns & Bridges"
+        },
+        {
+          "text": "Root Canal Therapy"
+        },
+        {
+          "text": "Sleep Apnea Therapy"
+        },
+        {
+          "text": "Invisalign Clear Braces"
+        },
+        {
+          "text": "Porcelain Veneers"
+        },
+        {
+          "text": "Advanced Technology"
+        },
+        {
+          "text": "See all our services"
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "items": [
+        {
+          "text": "Checkups & Cleanings"
+        },
+        {
+          "text": "Periodontal Therapy"
+        },
+        {
+          "text": "Crowns & Bridges"
+        },
+        {
+          "text": "Root Canal Therapy"
+        },
+        {
+          "text": "Sleep Apnea Therapy"
+        },
+        {
+          "text": "Invisalign Clear Braces"
+        },
+        {
+          "text": "Porcelain Veneers"
+        },
+        {
+          "text": "Advanced Technology"
+        },
+        {
+          "text": "See all our services"
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "items": [
+        {
+          "text": "Monday:"
+        },
+        {
+          "text": "Tuesday:"
+        },
+        {
+          "text": "Wednesday:"
+        },
+        {
+          "text": "Thursday:"
+        },
+        {
+          "text": "Friday:"
+        },
+        {
+          "text": "Saturday:"
+        },
+        {
+          "text": "Sunday:"
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "items": [
+        {
+          "text": "Monday:"
+        },
+        {
+          "text": "Tuesday:"
+        },
+        {
+          "text": "Wednesday:"
+        },
+        {
+          "text": "Thursday:"
+        },
+        {
+          "text": "Friday:"
+        },
+        {
+          "text": "Saturday:"
+        },
+        {
+          "text": "Sunday:"
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "items": [
+        {
+          "text": "9:00am - 7:00pm"
+        },
+        {
+          "text": "9:00am - 7:00pm"
+        },
+        {
+          "text": "9:00am - 7:00pm"
+        },
+        {
+          "text": "9:00am - 7:00pm"
+        },
+        {
+          "text": "9:00am - 7:00pm"
+        },
+        {
+          "text": "9:00am - 6:00pm"
+        },
+        {
+          "text": "Closed"
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "items": [
+        {
+          "text": "9:00am - 7:00pm"
+        },
+        {
+          "text": "9:00am - 7:00pm"
+        },
+        {
+          "text": "9:00am - 7:00pm"
+        },
+        {
+          "text": "9:00am - 7:00pm"
+        },
+        {
+          "text": "9:00am - 7:00pm"
+        },
+        {
+          "text": "9:00am - 6:00pm"
+        },
+        {
+          "text": "Closed"
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"31\" viewBox=\"0 0 32 31\" fill=\"none\"><path d=\"M12.6537 5.49891C12.2613 4.51812 11.3114 3.875 10.2551 3.875H6.70201C5.35036 3.875 4.25464 4.970",
+          "text": "Call Now!"
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "items": [
+        {
+          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"31\" viewBox=\"0 0 32 31\" fill=\"none\"><path d=\"M12.6537 5.49891C12.2613 4.51812 11.3114 3.875 10.2551 3.875H6.70201C5.35036 3.875 4.25464 4.970",
+          "text": "Call Now!"
+        }
+      ]
+    }
+  ],
+  "socialIcons": [
+    {
+      "platform": "facebook",
+      "href": "https://www.facebook.com/profile.php?id=61554432576015",
+      "classes": "elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-re"
+    },
+    {
+      "platform": "ri-instagram-fill",
+      "href": "https://www.instagram.com/baldentalcentreca/",
+      "classes": "elementor-icon elementor-social-icon elementor-social-icon-ri-instagram-fill ele"
+    },
+    {
+      "platform": "youtube",
+      "href": "https://www.youtube.com/channel/UCSMxHRacxLftVjytujOSfmw",
+      "classes": "elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-rep"
+    },
+    {
+      "platform": "facebook",
+      "href": "https://www.facebook.com/profile.php?id=61554432576015",
+      "classes": "elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-re"
+    },
+    {
+      "platform": "instagram",
+      "href": "https://www.instagram.com/baldentalcentreca/",
+      "classes": "elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-r"
+    },
+    {
+      "platform": "youtube",
+      "href": "https://www.youtube.com/channel/UCSMxHRacxLftVjytujOSfmw",
+      "classes": "elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-rep"
+    }
+  ],
+  "textSections": [
+    {
+      "index": 0,
+      "text": "The Bal Dental Centre is a neighbourhood dentist in Scarborough where state-of-the-art technology, decades of experience, and one-of-a-kind service all come together to provide a dental experience unl",
+      "html": "\n\t\t\t\t\t\t\t\t\t<p>The Bal Dental Centre is a neighbourhood dentist in Scarborough where state-of-the-art technology, decades of experience, and one-of-a-kind service all come together to provide a dental experience unlike any other.</p>\t\t\t\t\t\t\t\t"
+    },
+    {
+      "index": 1,
+      "text": "Our Dentist in Scarborough, located near Eglinton East, works hard to ensure your visits with us are productive, comfortable, and stress-free. This commitment extends to making payment simple—we never",
+      "html": "\n\t\t\t\t\t\t\t\t\t<p>Our <strong data-start=\"178\" data-end=\"204\">Dentist in Scarborough</strong>, located near Eglinton East, works hard to ensure your visits with us are productive, comfortable, and stress-free. This commitment extends to making payment simple—we never want concerns about cost to stand bet"
+    },
+    {
+      "index": 2,
+      "text": "Click on a service below to learn more.",
+      "html": "\n\t\t\t\t\t\t\t\t\t<p>Click on a service below to learn more.</p>\t\t\t\t\t\t\t\t"
+    },
+    {
+      "index": 3,
+      "text": "Still have a few questions on your mind? Let us help you find the answers! With lunchtime, evening, and weekend hours, you’re more than welcome to give our team a call at your convenience so we can as",
+      "html": "\n\t\t\t\t\t\t\t\t\t<p>Still have a few questions on your mind? Let us help you find the answers! With lunchtime, evening, and weekend hours, you’re more than welcome to give our team a call at your convenience so we can assist you. Otherwise, you can read on to learn the answers to some FAQs we get from pati"
+    },
+    {
+      "index": 4,
+      "text": "At BAL Dental Centre, we are proud to provide dental services for the NIHB Program to all eligible First Nation and Inuit community members. We want you and your family to get whatever dental treatmen",
+      "html": "\n\t\t\t\t\t\t\t\t\tAt BAL Dental Centre, we are proud to provide dental services for the <a href=\"https://www.sac-isc.gc.ca/eng/1576790320164/1576790364553\" target=\"_target\">NIHB Program</a> to all eligible First Nation and Inuit community members. We want you and your family to get whatever dental treatment"
+    },
+    {
+      "index": 5,
+      "text": "Looking for a skilled sedation dentist in your area? Interested in sleep apnea treatment? Time for your six-month checkup and cleaning? We look forward to welcoming you to our office at 4 Greystone Wa",
+      "html": "\n\t\t\t\t\t\t\t\t\t<p>Looking for a skilled sedation dentist in your area? Interested in sleep apnea treatment? Time for your six-month checkup and cleaning? We look forward to welcoming you to our office at 4 Greystone Walk Dr #4, Scarborough, ON M1K 5J2, Canada. You’ll find us near Greystone Park, McDonald"
+    },
+    {
+      "index": 6,
+      "text": "© Bal Dental Centre | Privacy Policy | Sitemap |",
+      "html": "\n\t\t\t\t\t\t\t\t\t<p>© Bal Dental Centre | Privacy Policy | Sitemap |</p>\t\t\t\t\t\t\t\t"
+    },
+    {
+      "index": 7,
+      "text": "Website Design by ©",
+      "html": "\n\t\t\t\t\t\t\t\t\tWebsite Design by ©\t\t\t\t\t\t\t\t"
+    },
+    {
+      "index": 8,
+      "text": "© Bal Dental Centre| Sitemap | All rights reserved",
+      "html": "\n\t\t\t\t\t\t\t\t\t© Bal Dental Centre| <a href=\"https://baldentalcentre.com/html-sitemap/\">Sitemap</a> | All rights reserved\t\t\t\t\t\t\t\t"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "id": "",
+      "dataId": "19356fb",
+      "bgColor": "rgb(0, 0, 51)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 0,
+      "height": 58,
+      "headings": [],
+      "text": "4 GREYSTONE WALK DR #4, SCARBOROUGH, ON M1K 5J2, CANADA "
+    },
+    {
+      "index": 1,
+      "id": "",
+      "dataId": "354e362",
+      "bgColor": "rgb(247, 245, 234)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 58,
+      "height": 92,
+      "headings": [],
+      "text": "Home About Us Meet Our Team Why Us Tour Our Office How To Select The Best Dentist Smile Galler"
+    },
+    {
+      "index": 2,
+      "id": "",
+      "dataId": "ae1cfd5",
+      "bgColor": "rgb(247, 245, 234)",
+      "bgUrl": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental-IMG-Smiles.png",
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 150,
+      "height": 918,
+      "headings": [
+        "Smile Brighter with Dentist in Scarborough"
+      ],
+      "text": "Dentist - Scarborough, Ontario Smile Brighter with Dentist in Scarborough "
+    },
+    {
+      "index": 3,
+      "id": "",
+      "dataId": "84adc78",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 1068,
+      "height": 85,
+      "headings": [],
+      "text": "Dental Emergencies Welcome "
+    },
+    {
+      "index": 4,
+      "id": "",
+      "dataId": "91ed425",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 1153,
+      "height": 316,
+      "headings": [
+        "Holiday Special",
+        "$3,999",
+        "all inclusive"
+      ],
+      "text": "Holiday Special $3,999 Clear Aligners for only all"
+    },
+    {
+      "index": 5,
+      "id": "",
+      "dataId": "5b72cf76",
+      "bgColor": "rgb(0, 0, 51)",
+      "bgUrl": null,
+      "paddingTop": "50px",
+      "paddingBottom": "50px",
+      "scrollTop": 1153,
+      "height": 316,
+      "headings": [
+        "Holiday Special",
+        "$3,999",
+        "all inclusive"
+      ],
+      "text": "Holiday Special $3,999 Clear Aligners for only all"
+    },
+    {
+      "index": 6,
+      "id": "",
+      "dataId": "9e95836",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 1519,
+      "height": 736,
+      "headings": [
+        "Why Choose Bal Dental Centre as Your Trusted Dentist in Scar"
+      ],
+      "text": "Why Choose Bal Dental Centre as Your Trusted Dentist in Scarborough? "
+    },
+    {
+      "index": 7,
+      "id": "",
+      "dataId": "bd43173",
+      "bgColor": "rgb(0, 0, 51)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 2305,
+      "height": 2220,
+      "headings": [
+        "Tour Our Scarborough Dental Office"
+      ],
+      "text": "Tour Our Scarborough Dental Office 4 Gr"
+    },
+    {
+      "index": 8,
+      "id": "special-promo",
+      "dataId": "6e05d96",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 4525,
+      "height": 692,
+      "headings": [
+        "Special dental promotions",
+        "Dental Implants",
+        "Invisalign"
+      ],
+      "text": "Special dental promotions "
+    },
+    {
+      "index": 9,
+      "id": "",
+      "dataId": "a9d05cd",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 5267,
+      "height": 469,
+      "headings": [
+        "Committed to Affordable Dentistry in Scarborough"
+      ],
+      "text": "Committed to Affordable Dentistry in Scarborough Our Dentist in Scarborough, locat"
+    },
+    {
+      "index": 10,
+      "id": "",
+      "dataId": "adbd814",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 5787,
+      "height": 131,
+      "headings": [
+        "Featured Dental Services"
+      ],
+      "text": "Featured Dental Services Click on a service below to learn more."
+    },
+    {
+      "index": 11,
+      "id": "",
+      "dataId": "117ad95",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 5968,
+      "height": 512,
+      "headings": [],
+      "text": "Preventive Dentistry "
+    },
+    {
+      "index": 12,
+      "id": "",
+      "dataId": "3f54b81",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 6530,
+      "height": 424,
+      "headings": [
+        "Frequently Asked Questions, Answered!"
+      ],
+      "text": "Frequently Asked Questions, Answered! Still have a few questions on your mind? Let"
+    },
+    {
+      "index": 13,
+      "id": "",
+      "dataId": "010d98c",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 7003,
+      "height": 368,
+      "headings": [
+        "Bal Dental Centre Accepts NIHB for First Nations and Inuit P"
+      ],
+      "text": "Bal Dental Centre Accepts NIHB for First Nations and Inuit Patients in Scarborough "
+    },
+    {
+      "index": 14,
+      "id": "",
+      "dataId": "f46d993",
+      "bgColor": "rgb(247, 245, 234)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 7371,
+      "height": 758,
+      "headings": [
+        "Conveniently Located Near You in Scarborough"
+      ],
+      "text": "Dentist - Scarborough, Ontario Conveniently Located Near You in Scarborough "
+    },
+    {
+      "index": 15,
+      "id": "",
+      "dataId": "f20e9c0",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 0,
+      "height": 0,
+      "headings": [],
+      "text": "<iframe loading=\"lazy\" src=\"https://maps.google.com/maps?q=Bal%20Dental%20Centre%2C%204%20Greys"
+    },
+    {
+      "index": 16,
+      "id": "",
+      "dataId": "9910ee3",
+      "bgColor": "rgb(0, 0, 51)",
+      "bgUrl": null,
+      "paddingTop": "15px",
+      "paddingBottom": "15px",
+      "scrollTop": 8129,
+      "height": 114,
+      "headings": [
+        "Open 7 Days A Week",
+        "|",
+        "Accepting appointments on Saturday, Sunday and Late evenings"
+      ],
+      "text": "Open 7 Days A Week "
+    },
+    {
+      "index": 17,
+      "id": "",
+      "dataId": "13ff157",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 8243,
+      "height": 458,
+      "headings": [],
+      "text": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2883.317633078324!2d-79.252545!3d4"
+    },
+    {
+      "index": 18,
+      "id": "",
+      "dataId": "d249194",
+      "bgColor": "rgb(0, 0, 51)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 8692,
+      "height": 618,
+      "headings": [
+        "Contact Us",
+        "Email Us",
+        "Office Hours​"
+      ],
+      "text": "Contact Us 647-490-0674 "
+    },
+    {
+      "index": 19,
+      "id": "",
+      "dataId": "1fdc113",
+      "bgColor": "rgb(0, 0, 51)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 0,
+      "height": 0,
+      "headings": [],
+      "text": "FEATURED SERVICES Preventive Dentistry "
+    },
+    {
+      "index": 20,
+      "id": "",
+      "dataId": "2a8ee3e",
+      "bgColor": "rgb(162, 132, 78)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 0,
+      "height": 0,
+      "headings": [],
+      "text": "© Bal Dental Centre | Privacy Policy | Sitemap | Website Design by © "
+    },
+    {
+      "index": 21,
+      "id": "",
+      "dataId": "a84296a",
+      "bgColor": "rgb(247, 245, 234)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 9310,
+      "height": 110,
+      "headings": [],
+      "text": "© Bal Dental Centre| Sitemap | All rights reserved"
+    },
+    {
+      "index": 22,
+      "id": "",
+      "dataId": "450c064",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "10px",
+      "paddingBottom": "10px",
+      "scrollTop": 0,
+      "height": 0,
+      "headings": [],
+      "text": "Home About Us Meet Our Team Why Us Tour Our Office How To Select The Best Dentist Smile Galler"
+    },
+    {
+      "index": 23,
+      "id": "",
+      "dataId": "1476d75",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 0,
+      "height": 0,
+      "headings": [],
+      "text": "<img width=\"1024\" height=\"1024\" src=\"https://baldentalcentre.com/wp-content/uploads/2024/05/BAL-Dent"
+    },
+    {
+      "index": 24,
+      "id": "",
+      "dataId": "0bbc655",
+      "bgColor": "rgba(0, 0, 0, 0)",
+      "bgUrl": null,
+      "paddingTop": "0px",
+      "paddingBottom": "0px",
+      "scrollTop": 0,
+      "height": 0,
+      "headings": [],
+      "text": "Call Now! Book Appointme"
+    }
+  ],
+  "allHeadings": [
+    {
+      "tag": "H6",
+      "text": "Dentist - Scarborough, Ontario",
+      "color": "rgb(162, 132, 78)",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H1",
+      "text": "Smile Brighter with Dentist in Scarborough",
+      "color": "rgb(0, 0, 51)",
+      "fontSize": "43px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H4",
+      "text": "Holiday Special",
+      "color": "rgb(0, 0, 51)",
+      "fontSize": "20px",
+      "fontWeight": "800",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "$3,999",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "50px",
+      "fontWeight": "800",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H5",
+      "text": "Clear Aligners for only",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H4",
+      "text": "all inclusive",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "20px",
+      "fontWeight": "800",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "$5,000",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "50px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H5",
+      "text": "INVISALIGN",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Roboto, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H4",
+      "text": "all inclusive",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "20px",
+      "fontWeight": "800",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "$3,000",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "50px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H5",
+      "text": "Dental Implants",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Roboto, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H4",
+      "text": "all inclusive",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "20px",
+      "fontWeight": "800",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "$99",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "50px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H5",
+      "text": "Hygiene Services",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "Roboto, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "Why Choose Bal Dental Centre as Your Trusted Dentist in Scarborough?",
+      "color": "rgb(162, 132, 78)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "Tour Our Scarborough Dental Office",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "48px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "Special dental promotions",
+      "color": "rgb(162, 132, 78)",
+      "fontSize": "48px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "capitalize",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H3",
+      "text": "Dental Implants",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "50px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-flip-box__layer__title"
+    },
+    {
+      "tag": "H3",
+      "text": "Invisalign",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "50px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-flip-box__layer__title"
+    },
+    {
+      "tag": "H3",
+      "text": "Hygiene Services",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "50px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-flip-box__layer__title"
+    },
+    {
+      "tag": "H2",
+      "text": "Committed to Affordable Dentistry in Scarborough",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "48px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "Featured Dental Services",
+      "color": "rgb(162, 132, 78)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "Frequently Asked Questions, Answered!",
+      "color": "rgb(162, 132, 78)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "Bal Dental Centre Accepts NIHB for First Nations and Inuit Patients in Scarborou",
+      "color": "rgb(162, 132, 78)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H6",
+      "text": "Dentist - Scarborough, Ontario",
+      "color": "rgb(162, 132, 78)",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "Conveniently Located Near You in Scarborough",
+      "color": "rgb(0, 0, 51)",
+      "fontSize": "42px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H2",
+      "text": "Open 7 Days A Week",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "exwb-content-scroller-item-content"
+    },
+    {
+      "tag": "H2",
+      "text": "|",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "exwb-content-scroller-item-content"
+    },
+    {
+      "tag": "H2",
+      "text": "Accepting appointments on Saturday, Sunday and Late evenings",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "exwb-content-scroller-item-content"
+    },
+    {
+      "tag": "H2",
+      "text": "|",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "exwb-content-scroller-item-content"
+    },
+    {
+      "tag": "H2",
+      "text": "Open 7 Days A Week",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "exwb-content-scroller-item-content"
+    },
+    {
+      "tag": "H2",
+      "text": "|",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "exwb-content-scroller-item-content"
+    },
+    {
+      "tag": "H2",
+      "text": "Accepting appointments on Saturday, Sunday and Late evenings",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "exwb-content-scroller-item-content"
+    },
+    {
+      "tag": "H2",
+      "text": "|",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "30px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "uppercase",
+      "classes": "exwb-content-scroller-item-content"
+    },
+    {
+      "tag": "H3",
+      "text": "Contact Us",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "24px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H3",
+      "text": "Email Us",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "24px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H3",
+      "text": "Office Hours​",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "24px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H3",
+      "text": "Language We Speak",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "24px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H3",
+      "text": "Our Location",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "24px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H5",
+      "text": "Get  Direction",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H3",
+      "text": "How Was Your Experience?",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "24px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H6",
+      "text": "FEATURED SERVICES",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H6",
+      "text": "Opening Hours",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    },
+    {
+      "tag": "H6",
+      "text": "HAVE QUESTIONS? GET ANSWERS.",
+      "color": "rgb(247, 245, 234)",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "fontFamily": "Poppins, sans-serif",
+      "textTransform": "none",
+      "classes": "elementor-heading-title elementor-size-default"
+    }
+  ],
+  "headerDetails": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "height": 150,
+    "isSticky": false,
+    "position": "static",
+    "logoSrc": "https://baldentalcentre.com/wp-content/uploads/2024/01/BALDental_Logo.png",
+    "logoAlt": "Bal Dental Centre – trusted dentist in Scarborough",
+    "phoneText": "416-267-6789",
+    "phoneHref": "tel:416-267-6789",
+    "bookBtnText": "Facebook",
+    "bookBtnHref": "https://www.facebook.com/profile.php?id=61554432576015"
+  },
+  "footerDetails": {
+    "bg": "rgba(0, 0, 0, 0)",
+    "color": "rgb(51, 65, 85)",
+    "links": [
+      {
+        "text": "647-490-0674",
+        "href": "tel:647-490-0674"
+      },
+      {
+        "text": "info@baldentalcentre.com",
+        "href": "mailto:info@baldentalcentre.com"
+      },
+      {
+        "text": "Facebook",
+        "href": "https://www.facebook.com/profile.php?id=61554432576015"
+      },
+      {
+        "text": "Instagram",
+        "href": "https://www.instagram.com/baldentalcentreca/"
+      },
+      {
+        "text": "Youtube",
+        "href": "https://www.youtube.com/channel/UCSMxHRacxLftVjytujOSfmw"
+      },
+      {
+        "text": "4 GREYSTONE WALK DR #4, SCARBOROUGH, ON M1K 5J2, CANADA",
+        "href": "https://www.google.com/maps/dir//Bal+Dental+Centre,+4+Greystone+Walk+Dr+%234,+Scarborough,+ON+M1K+5J2,+Canada/@43.724728,-79.252545,789m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x89d4ce365ec14963:0x3204a1154c78196a!2m2!1d-79.2525449!2d43.7247278?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDMzMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      {
+        "text": "Get  Direction",
+        "href": "https://www.google.com/maps/dir//Bal+Dental+Centre,+4+Greystone+Walk+Dr+%234,+Scarborough,+ON+M1K+5J2,+Canada/@43.724728,-79.252545,789m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x89d4ce365ec14963:0x3204a1154c78196a!2m2!1d-79.2525449!2d43.7247278?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDMzMC4wIKXMDSoASAFQAw%3D%3D"
+      },
+      {
+        "text": "Write a Review",
+        "href": "https://chatrbee.com/recommend?Bal-Dental-Centre&name=aa&numb=00&uniquekey=Bal-Dental-Centre.108&code=T7aIVqEHY5kZxCy&useremail=email"
+      },
+      {
+        "text": "Preventive Dentistry",
+        "href": "https://baldentalcentre.com/preventive-dentistry/#checkups"
+      },
+      {
+        "text": "IV Sedation",
+        "href": "https://baldentalcentre.com/crowns-bridges/"
+      },
+      {
+        "text": "Restorative Dentistry",
+        "href": "https://baldentalcentre.com/restorative-dentistry/"
+      },
+      {
+        "text": "Dentures & Partials",
+        "href": "https://baldentalcentre.com/dentures-partials/"
+      },
+      {
+        "text": "Wisdom Tooth Extractions",
+        "href": "https://baldentalcentre.com/restorative-dentistry/#extractions"
+      },
+      {
+        "text": "Dental Implants",
+        "href": "https://baldentalcentre.com/dental-implants"
+      },
+      {
+        "text": "Cosmetic Dentistry",
+        "href": "https://baldentalcentre.com/cosmetic-dentistry/"
+      },
+      {
+        "text": "Teeth Whitening",
+        "href": "https://baldentalcentre.com/cosmetic-dentistry/#teeth-whitening"
+      },
+      {
+        "text": "Emergency Dentistry",
+        "href": "https://baldentalcentre.com/emergency-dentistry"
+      },
+      {
+        "text": "Checkups & Cleanings",
+        "href": "https://baldentalcentre.com/preventive-dentistry/#checkups"
+      },
+      {
+        "text": "Periodontal Therapy",
+        "href": "https://baldentalcentre.com/periodontal-therapy"
+      },
+      {
+        "text": "Crowns & Bridges",
+        "href": "https://baldentalcentre.com/crowns-bridges"
+      },
+      {
+        "text": "Root Canal Therapy",
+        "href": "https://baldentalcentre.com/root-canals"
+      },
+      {
+        "text": "Sleep Apnea Therapy",
+        "href": "https://baldentalcentre.com/sleep-apnea-therapy"
+      },
+      {
+        "text": "Invisalign Clear Braces",
+        "href": "https://baldentalcentre.com/porcelain-veneers"
+      },
+      {
+        "text": "Porcelain Veneers",
+        "href": "https://baldentalcentre.com/porcelain-veneers"
+      },
+      {
+        "text": "Advanced Technology",
+        "href": "https://baldentalcentre.com/advanced-services-technology"
+      },
+      {
+        "text": "See all our services",
+        "href": "https://baldentalcentre.com/our-services"
+      },
+      {
+        "text": "<img width=\"133\" height=\"22\" src=\"https://baldentalcentre.com/wp-content/uploads/2024/01/PracPros.png\" class=\"attachment-large size-large wp-image-164\" alt=\"\" />",
+        "href": "https://pracpros.com/"
+      },
+      {
+        "text": "Sitemap",
+        "href": "https://baldentalcentre.com/html-sitemap/"
+      }
+    ],
+    "headings": [
+      "Open 7 Days A Week",
+      "|",
+      "Accepting appointments on Saturday, Sunday and Late evenings",
+      "|",
+      "Open 7 Days A Week",
+      "|",
+      "Accepting appointments on Saturday, Sunday and Late evenings",
+      "|",
+      "Contact Us",
+      "Email Us"
+    ],
+    "text": "Open 7 Days A Week | Accepting appointments on Saturday, Sunday and Late evenings "
+  },
+  "gFonts": [],
+  "fontFamilies": [
+    "\"Times New Roman\"",
+    "Poppins, sans-serif",
+    "remixicon",
+    "Roboto, sans-serif",
+    "teenyicon",
+    "feather",
+    "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, \"Helvetica Neue\", sans-serif"
+  ]
+}

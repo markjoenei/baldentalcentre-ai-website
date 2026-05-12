@@ -1,0 +1,31 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - button "Menu Toggle" [ref=e9] [cursor=pointer]:
+          - img [ref=e10]
+        - generic [ref=e18]: 
+        - generic [ref=e23] [cursor=pointer]: 
+      - text:  
+    - main [ref=e27]:
+      - article [ref=e28]:
+        - generic [ref=e34]:
+          - heading "About Red Maple Dental" [level=2] [ref=e38]
+          - heading "Your Trusted Dental Partner in Brampton, ON" [level=2] [ref=e40]
+          - paragraph [ref=e42]: Welcome to Red Maple Dental, your premier destination for comprehensive and compassionate dental care in Brampton, Ontario. We are not just a dental practice but your dedicated partners in achieving and maintaining exceptional oral health. With our unwavering commitment and years of experience, we prioritize your comfort and peace of mind while delivering top-tier dental services.
+          - generic [ref=e43]:
+            - link "Book Appointment" [ref=e49] [cursor=pointer]:
+              - /url: https://redmapledental.ca/contact-us/
+              - generic [ref=e50]: Book Appointment
+            - generic [ref=e52]:
+              - link [ref=e55] [cursor=pointer]:
+                - /url: tel:9059132223
+                - img [ref=e56]
+              - generic [ref=e61]:
+                - heading "Call Us Here" [level=2] [ref=e63]
+                - heading "905-913-2223" [level=2] [ref=e65]
+    - contentinfo [ref=e84]:
+      - iframe [ref=e90]:
+        

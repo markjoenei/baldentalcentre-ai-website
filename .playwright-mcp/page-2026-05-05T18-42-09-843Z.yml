@@ -1,0 +1,282 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e7]:
+      - link "logo-millbridge-dentistry" [ref=e10] [cursor=pointer]:
+        - /url: https://millbridgedentistry.com/
+        - img "logo-millbridge-dentistry" [ref=e12]
+      - generic [ref=e13]:
+        - generic [ref=e16]:
+          - navigation [ref=e18]:
+            - list [ref=e19]:
+              - listitem [ref=e20]:
+                - link "Services 3" [ref=e21] [cursor=pointer]:
+                  - /url: https://millbridgedentistry.com/services/
+              - listitem [ref=e22]:
+                - link "About" [ref=e23] [cursor=pointer]:
+                  - /url: https://millbridgedentistry.com/about/
+              - listitem [ref=e24]:
+                - link "New Patients 3" [ref=e25] [cursor=pointer]:
+                  - /url: https://millbridgedentistry.com/new-patients/
+          - text: a
+        - link "Request Appointment" [ref=e27] [cursor=pointer]:
+          - /url: ""
+  - generic [ref=e28]:
+    - article [ref=e30]:
+      - generic [ref=e33]:
+        - generic [ref=e36]:
+          - heading "General & Family Dentistry in Waxhaw, NC" [level=1] [ref=e39]
+          - heading "Your Neighborhood Dentist" [level=2] [ref=e42]
+          - link "Request Appointment" [ref=e44] [cursor=pointer]:
+            - /url: https://millbridgedentistry.com/contact-us/
+          - link "OR CALL (704) 665-7887" [ref=e47] [cursor=pointer]:
+            - /url: tel:7046657887
+        - generic [ref=e49]:
+          - generic [ref=e50]:
+            - generic [ref=e52]:
+              - heading "Welcome to MillBridge Dentistry" [level=2] [ref=e55]:
+                - generic [ref=e56]: Welcome to
+                - generic [ref=e57]: MillBridge Dentistry
+              - generic [ref=e59]:
+                - paragraph [ref=e60]: Discover a different kind of dental experience — one that creates lasting relationships with our patients of all ages and backgrounds. Our dentists combine high-quality treatments and calm, comfortable dental care with a knowledgeable team that treats you like family.
+                - paragraph [ref=e61]:
+                  - link "Request an appointment today" [ref=e62] [cursor=pointer]:
+                    - /url: /contact-us/
+                  - text: and join our family of patients for life.
+            - generic [ref=e63]:
+              - generic [ref=e64]:
+                - img "noun_House_3308999" [ref=e67]
+                - paragraph [ref=e70]: A dental practice emphasizing compassion and community
+              - generic [ref=e71]:
+                - img "icon-pair" [ref=e74]
+                - paragraph [ref=e77]: Meet Drs. Anait & Armen – Waxhaw dentists who love to make you smile!
+          - generic [ref=e78]:
+            - img "Waxhaw dentists dr anait and dr armen" [ref=e81]
+            - generic [ref=e83]:
+              - generic [ref=e86]: "{"
+              - paragraph [ref=e89]: Be proud of your smile! As your partners in whole-mouth health, we’re committed to lifetime dentistry by staying up-to-date with the latest dental research and recommending only what’s best for your health. We can’t wait to get to know you and for you to meet our friendly staff.
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - heading "Your family’s one-stop-shop for dental care" [level=2] [ref=e95]
+            - paragraph [ref=e98]:
+              - text: We offer all the treatments you’d expect from a general dentist,
+              - link "plus same-day emergency care" [ref=e99] [cursor=pointer]:
+                - /url: https://millbridgedentistry.com/emergency-dentist/
+              - text: and oral sedation options to reduce anxiety. Not sure what your smile needs? Start with an
+              - link "exam and cleaning" [ref=e100] [cursor=pointer]:
+                - /url: /general-dentistry/
+              - text: and we’ll go from there!
+          - generic [ref=e101]:
+            - generic [ref=e102]:
+              - link "GENERAL" [ref=e106] [cursor=pointer]:
+                - /url: https://millbridgedentistry.com/general-dentistry/
+                - heading "GENERAL" [level=3] [ref=e109]
+              - link "COSMETIC" [ref=e113] [cursor=pointer]:
+                - /url: https://millbridgedentistry.com/cosmetic-dentistry/
+                - heading "COSMETIC" [level=3] [ref=e116]
+            - link "RESTORATIVE" [ref=e121] [cursor=pointer]:
+              - /url: https://millbridgedentistry.com/surgical-dentistry/
+              - heading "RESTORATIVE" [level=3] [ref=e124]
+        - generic [ref=e125]:
+          - generic [ref=e128]:
+            - heading "We accept your insurance" [level=2] [ref=e131]
+            - paragraph [ref=e134]:
+              - text: We accept most major dental insurance providers. Give us a call at
+              - link "(704) 665-7887" [ref=e135] [cursor=pointer]:
+                - /url: tel:7046657887
+              - text: and we’ll verify your coverage.
+          - generic [ref=e137]:
+            - img "aetna-healthcare-millbridge-dentistry" [ref=e141]
+            - img "delta-dental-logo-millbridge-dentistry" [ref=e145]
+            - img "united-healthcare-logo-millbridge-dentistry" [ref=e149]
+          - generic [ref=e150]:
+            - img "cigna-logo-millbridge-dentistry" [ref=e154]
+            - img "metlife-logo-millbridge-dentistry" [ref=e158]
+            - img "guardian-logo-millbridge-dentistry" [ref=e162]
+        - generic [ref=e163]:
+          - heading "FAQs" [level=2] [ref=e168]
+          - generic [ref=e170]:
+            - img "Dr. Balasanyan Millbridge Dentistry" [ref=e174]
+            - generic [ref=e175]:
+              - heading "What makes MillBridge Dentistry different from other Waxhaw dentists?" [level=5] [ref=e177] [cursor=pointer]
+              - heading "Do you accept new patients at your Waxhaw dental office?" [level=5] [ref=e179] [cursor=pointer]
+              - heading "What insurance plans do you accept?" [level=5] [ref=e181] [cursor=pointer]
+              - heading "Where is your office located?" [level=5] [ref=e183] [cursor=pointer]
+              - heading "What dental services do you offer?" [level=5] [ref=e185] [cursor=pointer]
+              - heading "What should I expect during my first visit?" [level=5] [ref=e187] [cursor=pointer]
+              - heading "Do you treat children and seniors?" [level=5] [ref=e189] [cursor=pointer]
+              - heading "What if I need urgent dental care?" [level=5] [ref=e191] [cursor=pointer]
+        - generic [ref=e193]:
+          - generic [ref=e197]:
+            - img "doctor-anait-millbridge-dentistry" [ref=e200]
+            - img "doctor-armen-millbridge-dentistry" [ref=e203]
+            - img "main-street-millbridge-dentistry" [ref=e206]
+            - img "water-tower-millbridge-dentistry" [ref=e209]
+          - generic [ref=e210]:
+            - heading "This Is Us" [level=2] [ref=e215]
+            - generic [ref=e216]:
+              - generic [ref=e217]:
+                - img "heart-icon-millbridge-dentistry" [ref=e220]
+                - generic [ref=e222]:
+                  - heading "Comfort" [level=3] [ref=e223]
+                  - paragraph [ref=e224]: Gentle hands, neighborly experience
+              - generic [ref=e225]:
+                - img "calendar-icon-millbridge-dentistry" [ref=e228]
+                - generic [ref=e230]:
+                  - heading "Convenience" [level=3] [ref=e231]
+                  - paragraph [ref=e232]: Easy scheduling, no long waits
+            - generic [ref=e233]:
+              - generic [ref=e234]:
+                - img "pricing-icon-millbridge-dentistry" [ref=e237]
+                - generic [ref=e239]:
+                  - heading "Transparency" [level=3] [ref=e240]
+                  - paragraph [ref=e241]:
+                    - link "Crystal clear pricing" [ref=e242] [cursor=pointer]:
+                      - /url: https://millbridgedentistry.com/payment-options/
+                    - text: ", honest care"
+              - generic [ref=e243]:
+                - img "door-icon-millbridge-dentistry" [ref=e246]
+                - generic [ref=e248]:
+                  - heading "Welcoming" [level=3] [ref=e249]
+                  - paragraph [ref=e250]: Accepting new patients of all ages, from kids to adults
+        - generic [ref=e252]:
+          - img "quote-icon-millbridge-dentistry" [ref=e256]
+          - generic [ref=e257]:
+            - heading "Hear from our patients" [level=2] [ref=e260]
+            - generic [ref=e262]:
+              - paragraph [ref=e263]: Best dental office I’ve ever been too. Dr. Anait is professional, caring, and funny. The hygienists and office staff are amazing. I recommend 100%.
+              - paragraph [ref=e264]: – Brian
+        - generic [ref=e266]:
+          - img "wheel-logo-millbridge-dentistry" [ref=e270]
+          - generic [ref=e274]:
+            - heading "See You Soon" [level=2] [ref=e277]
+            - generic [ref=e279]:
+              - text: Ready to schedule an appointment? Contact us online or call
+              - link "(704) 665-7887" [ref=e280] [cursor=pointer]:
+                - /url: tel:7046657887
+              - text: .
+            - link "Request Appointment" [ref=e282] [cursor=pointer]:
+              - /url: https://millbridgedentistry.com/contact-us/
+        - generic [ref=e284]:
+          - generic [ref=e285]:
+            - heading "Our Office" [level=2] [ref=e288]
+            - paragraph [ref=e291]: We’re located in the heart of the beautiful Waxhaw community! Find us right off of Providence Road in the Novant Medical building by the Waxhaw PD. Plenty of free parking available!
+            - generic [ref=e297]:
+              - paragraph [ref=e298]: 3614 Providence Rd.S Suite 103 Waxhaw, NC 28173
+              - paragraph [ref=e299]:
+                - link "Get Directions" [ref=e300] [cursor=pointer]:
+                  - /url: https://goo.gl/maps/K17Y7dfVT51MtG5s7
+            - heading "Hours" [level=3] [ref=e303]
+            - paragraph [ref=e310]:
+              - text: "Monday–Thursday: 8am-5pm"
+              - text: "Friday: 8am-1pm"
+          - generic [ref=e311]:
+            - img "dentist appointment millbridge dentistry waxhaw nc" [ref=e314]
+            - iframe [ref=e317]:
+              
+        - generic [ref=e318]:
+          - generic [ref=e319]:
+            - link "ada-trust-badge-millbridge-dentistry" [ref=e322] [cursor=pointer]:
+              - /url: https://www.ada.org/en
+              - img "ada-trust-badge-millbridge-dentistry" [ref=e324]
+            - link "indiana-university-trust-badge-millbridge-dentistry" [ref=e327] [cursor=pointer]:
+              - /url: https://dentistry.iu.edu/
+              - img "indiana-university-trust-badge-millbridge-dentistry" [ref=e329]
+            - link "operation-reach-out-trust-badge" [ref=e332] [cursor=pointer]:
+              - /url: https://www.operationreachout.org/
+              - img "operation-reach-out-trust-badge" [ref=e334]
+            - link "invisalign-trust-badge-millbridge-dentistry" [ref=e337] [cursor=pointer]:
+              - /url: https://www.invisalign.com/get-started/doctor-profile?profile=514547
+              - img "invisalign-trust-badge-millbridge-dentistry" [ref=e339]
+            - link "international-dental-implant-association-trust-badge" [ref=e342] [cursor=pointer]:
+              - /url: https://internationaldentalimplantassociation.com/
+              - img "international-dental-implant-association-trust-badge" [ref=e344]
+          - generic [ref=e345]:
+            - link "community-shelter-trust-badge" [ref=e348] [cursor=pointer]:
+              - /url: https://www.unionshelter.org/
+              - img "community-shelter-trust-badge" [ref=e350]
+            - link "union-county-chamber-trust-badge" [ref=e353] [cursor=pointer]:
+              - /url: https://www.unioncountycoc.com/
+              - img "union-county-chamber-trust-badge" [ref=e355]
+            - link "va-community-care-network-trust-badge" [ref=e358] [cursor=pointer]:
+              - /url: https://www.va.gov/COMMUNITYCARE/providers/Community_Care_Network.asp
+              - img "va-community-care-network-trust-badge" [ref=e360]
+            - link "north-carolina-dental-society-trust-badge" [ref=e363] [cursor=pointer]:
+              - /url: https://www.ncdental.org/
+              - img "north-carolina-dental-society-trust-badge" [ref=e365]
+    - contentinfo [ref=e366]:
+      - generic [ref=e368]:
+        - generic [ref=e369]:
+          - generic [ref=e372]:
+            - heading "Services" [level=4] [ref=e373]
+            - navigation [ref=e374]:
+              - list [ref=e375]:
+                - listitem [ref=e376]:
+                  - link "General" [ref=e377] [cursor=pointer]:
+                    - /url: https://millbridgedentistry.com/general-dentistry/
+                - listitem [ref=e378]:
+                  - link "Cosmetic" [ref=e379] [cursor=pointer]:
+                    - /url: https://millbridgedentistry.com/cosmetic-dentistry/
+                - listitem [ref=e380]:
+                  - link "Surgical" [ref=e381] [cursor=pointer]:
+                    - /url: https://millbridgedentistry.com/surgical-dentistry/
+          - generic [ref=e384]:
+            - heading "Practice" [level=4] [ref=e385]
+            - navigation [ref=e386]:
+              - list [ref=e387]:
+                - listitem [ref=e388]:
+                  - link "Home" [ref=e389] [cursor=pointer]:
+                    - /url: https://millbridgedentistry.com/
+                - listitem [ref=e390]:
+                  - link "About" [ref=e391] [cursor=pointer]:
+                    - /url: https://millbridgedentistry.com/about/
+                - listitem [ref=e392]:
+                  - link "New Patients" [ref=e393] [cursor=pointer]:
+                    - /url: https://millbridgedentistry.com/new-patients/
+                - listitem [ref=e394]:
+                  - link "Request Appointment" [ref=e395] [cursor=pointer]:
+                    - /url: https://millbridgedentistry.com/contact-us/
+          - generic [ref=e398]:
+            - heading "Office" [level=4] [ref=e399]
+            - paragraph [ref=e400]:
+              - text: 3614 Providence Rd.
+              - text: S Suite 103 Waxhaw, NC 28173
+            - paragraph [ref=e401]:
+              - link "Get Directions" [ref=e402] [cursor=pointer]:
+                - /url: https://goo.gl/maps/K17Y7dfVT51MtG5s7
+            - paragraph [ref=e403]:
+              - link "(704) 665-7887" [ref=e404] [cursor=pointer]:
+                - /url: tel:7046657887
+          - generic [ref=e407]:
+            - heading "Review Us" [level=4] [ref=e408]
+            - navigation [ref=e409]:
+              - list [ref=e410]:
+                - listitem [ref=e411]:
+                  - link "Google" [ref=e412] [cursor=pointer]:
+                    - /url: https://g.page/r/CUXgQaMhEipVEAg/review
+                - listitem [ref=e413]:
+                  - link "Facebook" [ref=e414] [cursor=pointer]:
+                    - /url: https://www.facebook.com/pg/millbridgedentistry/reviews/?ref=page_internal
+          - generic [ref=e415]:
+            - heading "Social" [level=4] [ref=e418]
+            - list [ref=e419]:
+              - listitem [ref=e420]:
+                - link "Follow on Facebook" [ref=e421] [cursor=pointer]:
+                  - /url: https://www.facebook.com/millbridgedentistry/
+              - listitem [ref=e422]:
+                - link "Follow on Instagram" [ref=e423] [cursor=pointer]:
+                  - /url: https://www.instagram.com/millbridgedentistry/
+        - generic [ref=e431]:
+          - paragraph [ref=e435]:
+            - text: © MillBridge Dentistry 2021 |
+            - link "Privacy Policy" [ref=e436] [cursor=pointer]:
+              - /url: /privacy-policy/
+            - text: "|"
+            - link "Accessibility Statement" [ref=e437] [cursor=pointer]:
+              - /url: /accessibility-statement/
+          - paragraph [ref=e441]:
+            - link "Dentist Marketing" [ref=e442] [cursor=pointer]:
+              - /url: https://delmain.co/dental-marketing/
+            - text: "&"
+            - link "Web Design" [ref=e443] [cursor=pointer]:
+              - /url: https://delmain.co/dental-website-design/
+            - text: by :Delmain

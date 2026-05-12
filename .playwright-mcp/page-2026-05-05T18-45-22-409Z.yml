@@ -1,0 +1,127 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Red Maple Dental" [ref=e10] [cursor=pointer]:
+          - /url: https://redmapledental.ca/
+          - img "Red Maple Dental" [ref=e11]
+        - navigation "Menu" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "HOME" [ref=e17] [cursor=pointer]:
+                - /url: https://redmapledental.ca/
+            - listitem [ref=e18]:
+              - link "ABOUT US Menu Toggle" [ref=e19] [cursor=pointer]:
+                - /url: /about-us/
+                - text: ABOUT US
+                - button "Menu Toggle"
+                - img [ref=e21]
+            - listitem [ref=e23]:
+              - generic [ref=e24]:
+                - text: DENTAL SERVICES
+                - button "Menu Toggle"
+                - img [ref=e26]
+            - listitem [ref=e28]:
+              - link "FOR PATIENTS Menu Toggle" [ref=e29] [cursor=pointer]:
+                - /url: https://redmapledental.ca/for-patients/
+                - text: FOR PATIENTS
+                - button "Menu Toggle"
+                - img [ref=e31]
+            - listitem [ref=e33]:
+              - link "Blog" [ref=e34] [cursor=pointer]:
+                - /url: https://redmapledental.ca/blog/
+            - listitem [ref=e35]:
+              - link "CONTACT US" [ref=e36] [cursor=pointer]:
+                - /url: https://redmapledental.ca/contact-us/
+        - button "Call 905-913-2223" [ref=e39] [cursor=pointer]:
+          - text: Call
+          - img [ref=e41]
+          - text: 905-913-2223
+      - text:    
+    - main [ref=e49]:
+      - article [ref=e50]:
+        - generic [ref=e52]:
+          - generic [ref=e67]:
+            - generic [ref=e72]:
+              - heading "No-Obligation Consultation" [level=2] [ref=e75]
+              - heading "Same-Day Appointments" [level=2] [ref=e78]
+              - heading "Emergency Walk-Ins Welcome" [level=2] [ref=e81]
+              - generic [ref=e82]:
+                - heading "No-Obligation Consultation" [level=2] [ref=e85]
+                - heading "Same-Day Appointments" [level=2] [ref=e88]
+                - heading "Emergency Walk-Ins Welcome" [level=2] [ref=e91]
+              - generic [ref=e92]:
+                - heading "No-Obligation Consultation" [level=2] [ref=e95]
+                - heading "Same-Day Appointments" [level=2] [ref=e98]
+                - heading "Emergency Walk-Ins Welcome" [level=2] [ref=e101]
+            - generic [ref=e106]:
+              - heading "0% Financing Available" [level=2] [ref=e109]
+              - heading "Direct Insurance Billing" [level=2] [ref=e112]
+              - heading "Open 6 Days A Week" [level=2] [ref=e115]
+              - heading "0% Financing Available" [level=2] [ref=e118]
+              - heading "Direct Insurance Billing" [level=2] [ref=e121]
+              - heading "Open 6 Days A Week" [level=2] [ref=e124]
+              - generic [ref=e125]:
+                - heading "0% Financing Available" [level=2] [ref=e128]
+                - heading "Direct Insurance Billing" [level=2] [ref=e131]
+                - heading "Open 6 Days A Week" [level=2] [ref=e134]
+                - heading "0% Financing Available" [level=2] [ref=e137]
+                - heading "Direct Insurance Billing" [level=2] [ref=e140]
+                - heading "Open 6 Days A Week" [level=2] [ref=e143]
+              - generic [ref=e144]:
+                - heading "0% Financing Available" [level=2] [ref=e147]
+                - heading "Direct Insurance Billing" [level=2] [ref=e150]
+                - heading "Open 6 Days A Week" [level=2] [ref=e153]
+                - heading "0% Financing Available" [level=2] [ref=e156]
+                - heading "Direct Insurance Billing" [level=2] [ref=e159]
+                - heading "Open 6 Days A Week" [level=2] [ref=e162]
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - generic [ref=e192]:
+                - heading "What should I expect during my first dental appointment at Red Maple Dental?" [level=3] [ref=e193]
+                - generic [ref=e194]:
+                  - generic [ref=e195]: 
+                  - text: 
+              - paragraph [ref=e200]: During your initial visit, we'll conduct a thorough examination of your oral health, discuss your dental history, and address any concerns or questions you may have. This is an opportunity for us to get to know you and your dental needs.
+            - generic [ref=e202]:
+              - heading "Does Red Maple Dental accept government insurance plans?" [level=3] [ref=e203]
+              - generic [ref=e204]:
+                - text: 
+                - generic [ref=e205]: 
+            - generic [ref=e207]:
+              - heading "How can I complete my patient forms before my appointment?" [level=3] [ref=e208]
+              - generic [ref=e209]:
+                - text: 
+                - generic [ref=e210]: 
+            - generic [ref=e212]:
+              - heading "Does Red Maple Dental offer financing options for dental treatments?" [level=3] [ref=e213]
+              - generic [ref=e214]:
+                - text: 
+                - generic [ref=e215]: 
+            - generic [ref=e217]:
+              - heading "Will my insurance be billed directly, or do I need to submit claims myself?" [level=3] [ref=e218]
+              - generic [ref=e219]:
+                - text: 
+                - generic [ref=e220]: 
+            - generic [ref=e222]:
+              - heading "What dental services does Red Maple Dental offer for children and pediatric patients?" [level=3] [ref=e223]
+              - generic [ref=e224]:
+                - text: 
+                - generic [ref=e225]: 
+            - generic [ref=e227]:
+              - heading "Can I receive sedation during my dental procedure if I'm anxious or nervous?" [level=3] [ref=e228]
+              - generic [ref=e229]:
+                - text: 
+                - generic [ref=e230]: 
+    - contentinfo [ref=e239]:
+      - iframe [ref=e245]:
+        
+  - generic [ref=e256] [cursor=pointer]:
+    - img [ref=e258]
+    - generic [ref=e260]: Scroll to Top
+  - generic "Live chat button":
+    - generic [ref=e262] [cursor=pointer]:
+      - generic: Live Chat
+  - generic [ref=e267]: desktop

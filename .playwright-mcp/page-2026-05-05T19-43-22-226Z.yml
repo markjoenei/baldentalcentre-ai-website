@@ -1,0 +1,50 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Red Maple Dental" [ref=e10] [cursor=pointer]:
+          - /url: https://redmapledental.ca/
+          - img "Red Maple Dental" [ref=e11]
+        - navigation "Menu" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "HOME" [ref=e17] [cursor=pointer]:
+                - /url: https://redmapledental.ca/
+            - listitem [ref=e18]:
+              - link "ABOUT US Menu Toggle" [ref=e19] [cursor=pointer]:
+                - /url: /about-us/
+                - text: ABOUT US
+                - button "Menu Toggle"
+            - listitem [ref=e20]:
+              - generic [ref=e21]:
+                - text: DENTAL SERVICES
+                - button "Menu Toggle"
+            - listitem [ref=e22]:
+              - link "FOR PATIENTS Menu Toggle" [ref=e23] [cursor=pointer]:
+                - /url: https://redmapledental.ca/for-patients/
+                - text: FOR PATIENTS
+                - button "Menu Toggle"
+            - listitem [ref=e24]:
+              - link "Blog" [ref=e25] [cursor=pointer]:
+                - /url: https://redmapledental.ca/blog/
+            - listitem [ref=e26]:
+              - link "CONTACT US" [ref=e27] [cursor=pointer]:
+                - /url: https://redmapledental.ca/contact-us/
+        - button "Call 905-913-2223" [ref=e30] [cursor=pointer]:
+          - text: Call
+          - img [ref=e32]
+          - text: 905-913-2223
+      - text:    
+    - main [ref=e40]:
+      - article [ref=e41]:
+        - generic [ref=e47]:
+          - heading "YOUR BRAMPTON DENTAL CLINIC" [level=2] [ref=e49]
+          - heading "Accepting New Patients Of All Ages" [level=1] [ref=e51]
+          - paragraph [ref=e53]: Are you looking for a new dentist in Brampton? Look no further! We are accepting new patients of all ages at Red Maple Dental. Give us a call at 905-913-2223 or visit us today! We accept same-day emergency appointments and walk-ins for your convenience!
+          - link [ref=e61] [cursor=pointer]:
+            - /url: https://redmapledental.ca/contact-us/
+    - contentinfo [ref=e83]:
+      - iframe [ref=e89]:
+        

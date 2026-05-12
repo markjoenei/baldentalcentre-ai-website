@@ -1,0 +1,114 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Red Maple Dental" [ref=e10] [cursor=pointer]:
+          - /url: https://redmapledental.ca/
+          - img "Red Maple Dental" [ref=e11]
+        - navigation "Menu" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "HOME" [ref=e17] [cursor=pointer]:
+                - /url: https://redmapledental.ca/
+            - listitem [ref=e18]:
+              - link "ABOUT US Menu Toggle" [ref=e19] [cursor=pointer]:
+                - /url: /about-us/
+                - text: ABOUT US
+                - button "Menu Toggle"
+                - img [ref=e21]
+            - listitem [ref=e23]:
+              - generic [ref=e24]:
+                - text: DENTAL SERVICES
+                - button "Menu Toggle"
+                - img [ref=e26]
+            - listitem [ref=e28]:
+              - link "FOR PATIENTS Menu Toggle" [ref=e29] [cursor=pointer]:
+                - /url: https://redmapledental.ca/for-patients/
+                - text: FOR PATIENTS
+                - button "Menu Toggle"
+                - img [ref=e31]
+            - listitem [ref=e33]:
+              - link "Blog" [ref=e34] [cursor=pointer]:
+                - /url: https://redmapledental.ca/blog/
+            - listitem [ref=e35]:
+              - link "CONTACT US" [ref=e36] [cursor=pointer]:
+                - /url: https://redmapledental.ca/contact-us/
+        - button "Call 905-913-2223" [ref=e39] [cursor=pointer]:
+          - text: Call
+          - img [ref=e41]
+          - text: 905-913-2223
+      - text:    
+    - main [ref=e49]:
+      - article [ref=e50]:
+        - generic [ref=e52]:
+          - list [ref=e57]:
+            - listitem [ref=e58]:
+              - link "Home" [ref=e59] [cursor=pointer]:
+                - /url: https://redmapledental.ca
+            - listitem [ref=e60]: »
+            - listitem [ref=e61]: Contact Us
+          - generic [ref=e63]:
+            - generic [ref=e68]:
+              - heading "Get In Touch!" [level=2] [ref=e70]
+              - heading "Office Hours" [level=2] [ref=e72]
+              - list [ref=e74]:
+                - listitem [ref=e75]:
+                  - generic [ref=e76]: "Monday - Friday : 9am - 8pm"
+                - listitem [ref=e77]:
+                  - generic [ref=e78]: "Saturday - Sunday : 9am - 5pm"
+              - heading "Location" [level=2] [ref=e80]
+              - list [ref=e82]:
+                - listitem [ref=e83]:
+                  - generic [ref=e84]:
+                    - text: 6475 Mayfield Rd Unit 104,
+                    - text: Brampton, ON L6P 4N2
+              - link "Get Directions" [ref=e90] [cursor=pointer]:
+                - /url: https://maps.app.goo.gl/CEDTP23bXwrZZGEz7
+                - generic [ref=e91]: Get Directions
+            - generic [ref=e92]:
+              - heading "Email Us" [level=2] [ref=e94]
+              - generic [ref=e99]:
+                - generic [ref=e100]: Leave this field blank
+                - textbox "Name" [ref=e105]
+                - textbox "Phone" [ref=e111]
+                - textbox "Email" [ref=e116]
+                - textbox "Message" [ref=e120]
+                - button "Send" [ref=e122] [cursor=pointer]
+    - contentinfo [ref=e123]:
+      - iframe [ref=e129]:
+        - generic [active] [ref=f38e1]:
+          - link "Get directions (opens in new tab)" [ref=f38e6] [cursor=pointer]:
+            - /url: https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x882b19544877fbaf:0x4387ee980f301f4b!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF
+            - img [ref=f38e10]
+          - generic [ref=f38e13]:
+            - generic:
+              - button "Keyboard shortcuts"
+            - region "Map" [ref=f38e14]
+            - generic [ref=f38e15]:
+              - iframe [ref=f38e154]:
+                
+              - button "Map camera controls" [ref=f38e156] [cursor=pointer]
+              - button "Show satellite imagery" [ref=f38e159] [cursor=pointer]:
+                - generic [ref=f38e163]:
+                  - region [ref=f38e164]
+                  - iframe [ref=f38e170]:
+                    
+              - img "Google" [ref=f38e172]
+              - generic [ref=f38e173]:
+                - button "Keyboard shortcuts" [ref=f38e179] [cursor=pointer]
+                - generic [ref=f38e184]: Map data ©2026 Google
+                - link "Terms (opens in new tab)" [ref=f38e189] [cursor=pointer]:
+                  - /url: https://www.google.com/intl/en_PH/help/terms_maps.html
+                  - text: Terms
+                - link "Report a map error" [ref=f38e194] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/@43.7998852,-79.748969,17z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3
+  - generic [ref=e140]: desktop
+  - generic "Live chat button":
+    - generic [ref=e142] [cursor=pointer]:
+      - generic: Live Chat
+  - iframe [ref=e149]:
+    - generic [ref=f41e6]:
+      - text: protected by
+      - strong [ref=f41e7]: reCAPTCHA

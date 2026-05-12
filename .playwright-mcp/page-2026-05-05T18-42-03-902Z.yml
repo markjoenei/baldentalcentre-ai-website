@@ -1,0 +1,78 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Red Maple Dental" [ref=e10] [cursor=pointer]:
+          - /url: https://redmapledental.ca/
+          - img "Red Maple Dental" [ref=e11]
+        - navigation "Menu" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "HOME" [ref=e17] [cursor=pointer]:
+                - /url: https://redmapledental.ca/
+            - listitem [ref=e18]:
+              - link "ABOUT US Menu Toggle" [ref=e19] [cursor=pointer]:
+                - /url: /about-us/
+                - text: ABOUT US
+                - button "Menu Toggle"
+            - listitem [ref=e20]:
+              - generic [ref=e21]:
+                - text: DENTAL SERVICES
+                - button "Menu Toggle"
+            - listitem [ref=e22]:
+              - link "FOR PATIENTS Menu Toggle" [ref=e23] [cursor=pointer]:
+                - /url: https://redmapledental.ca/for-patients/
+                - text: FOR PATIENTS
+                - button "Menu Toggle"
+            - listitem [ref=e24]:
+              - link "Blog" [ref=e25] [cursor=pointer]:
+                - /url: https://redmapledental.ca/blog/
+            - listitem [ref=e26]:
+              - link "CONTACT US" [ref=e27] [cursor=pointer]:
+                - /url: https://redmapledental.ca/contact-us/
+        - button "Call 905-913-2223" [ref=e30] [cursor=pointer]:
+          - text: Call
+          - img [ref=e32]
+          - text: 905-913-2223
+      - text:    
+    - main [ref=e40]:
+      - article [ref=e41]:
+        - generic [ref=e43]:
+          - generic [ref=e46]:
+            - heading "Quality Care For Your Whole Family in Brampton" [level=1] [ref=e145]
+            - paragraph [ref=e147]: Contact us today to schedule an appointment with our Brampton dentist and take the first step toward a healthier, happier smile!
+            - generic [ref=e148]:
+              - list [ref=e150]:
+                - listitem [ref=e151]:
+                  - img [ref=e153]
+                  - generic [ref=e159]: Affordable Dental Implants
+                - listitem [ref=e160]:
+                  - img [ref=e162]
+                  - generic [ref=e168]: Direct Insurance Billing
+              - list [ref=e170]:
+                - listitem [ref=e171]:
+                  - img [ref=e173]
+                  - generic [ref=e179]: Sedation Options Available
+                - listitem [ref=e180]:
+                  - img [ref=e182]
+                  - generic [ref=e188]: Emergency Care
+            - generic [ref=e198]:
+              - heading "Call Us Here" [level=2] [ref=e200]
+              - heading "905-913-2223" [level=2] [ref=e202]
+          - generic [ref=e58]:
+            - generic [ref=e62]:
+              - heading "No-Obligation Consultation" [level=2] [ref=e65]
+              - heading "Same-Day Appointments" [level=2] [ref=e68]
+              - heading "Emergency Walk-Ins Welcome" [level=2] [ref=e71]
+            - generic [ref=e75]:
+              - heading "0% Financing Available" [level=2] [ref=e78]
+              - heading "Direct Insurance Billing" [level=2] [ref=e81]
+              - heading "Open 6 Days A Week" [level=2] [ref=e84]
+              - heading "0% Financing Available" [level=2] [ref=e87]
+              - heading "Direct Insurance Billing" [level=2] [ref=e90]
+              - heading "Open 6 Days A Week" [level=2] [ref=e93]
+    - contentinfo [ref=e127]:
+      - iframe [ref=e133]:
+        

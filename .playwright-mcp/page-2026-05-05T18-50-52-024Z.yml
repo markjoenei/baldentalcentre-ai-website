@@ -1,0 +1,271 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - link "Red Maple Dental" [ref=e10] [cursor=pointer]:
+          - /url: https://redmapledental.ca/
+          - img "Red Maple Dental" [ref=e11]
+        - navigation "Menu" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "HOME" [ref=e17] [cursor=pointer]:
+                - /url: https://redmapledental.ca/
+            - listitem [ref=e18]:
+              - link "ABOUT US Menu Toggle" [ref=e19] [cursor=pointer]:
+                - /url: /about-us/
+                - text: ABOUT US
+                - button "Menu Toggle"
+            - listitem [ref=e20]:
+              - generic [ref=e21]:
+                - text: DENTAL SERVICES
+                - button "Menu Toggle"
+            - listitem [ref=e22]:
+              - link "FOR PATIENTS Menu Toggle" [ref=e23] [cursor=pointer]:
+                - /url: https://redmapledental.ca/for-patients/
+                - text: FOR PATIENTS
+                - button "Menu Toggle"
+            - listitem [ref=e24]:
+              - link "Blog" [ref=e25] [cursor=pointer]:
+                - /url: https://redmapledental.ca/blog/
+            - listitem [ref=e26]:
+              - link "CONTACT US" [ref=e27] [cursor=pointer]:
+                - /url: https://redmapledental.ca/contact-us/
+        - button "Call 905-913-2223" [ref=e30] [cursor=pointer]:
+          - text: Call
+          - img [ref=e32]
+          - text: 905-913-2223
+      - text:    
+    - main [ref=e40]:
+      - article [ref=e41]:
+        - generic [ref=e43]:
+          - generic [ref=e46]:
+            - heading "Quality Care For Your Whole Family in Brampton" [level=1] [ref=e48]
+            - paragraph [ref=e50]: Contact us today to schedule an appointment with our Brampton dentist and take the first step toward a healthier, happier smile!
+            - generic [ref=e51]:
+              - list [ref=e53]:
+                - listitem [ref=e54]:
+                  - img [ref=e56]
+                  - generic [ref=e62]: Affordable Dental Implants
+                - listitem [ref=e63]:
+                  - img [ref=e65]
+                  - generic [ref=e71]: Direct Insurance Billing
+              - list [ref=e73]:
+                - listitem [ref=e74]:
+                  - img [ref=e76]
+                  - generic [ref=e82]: Sedation Options Available
+                - listitem [ref=e83]:
+                  - img [ref=e85]
+                  - generic [ref=e91]: Emergency Care
+            - generic [ref=e92]:
+              - link "Book Appointment" [ref=e213] [cursor=pointer]:
+                - /url: https://redmapledental.ca/contact-us/
+                - generic [ref=e214]: Book Appointment
+              - generic [ref=e100]:
+                - link [ref=e103] [cursor=pointer]:
+                  - /url: tel:9059132223
+                  - img [ref=e104]
+                - generic [ref=e109]:
+                  - heading "Call Us Here" [level=2] [ref=e111]
+                  - heading "905-913-2223" [level=2] [ref=e113]
+          - generic [ref=e217]:
+            - heading "Why Choose Red Maple Dental?" [level=2] [ref=e219]
+            - paragraph [ref=e221]: Welcome to Red Maple Dental, your friendly neighborhood dentist in Brampton, Ontario! Open six days a week, we provide exceptional dental care for patients of all ages. Whether you’re looking for a reliable family dentist or need urgent treatment, we offer direct insurance billing, flexible payment options, and same-day emergency appointments. Our personalized approach includes special attention for patients with dental anxiety, with comfort and sedation options to help you feel at ease. At Red Maple Dental, your well-being is our top priority, and we’re committed to making your dental experience convenient, stress-free, and tailored just for you!
+            - link "Book Appointment" [ref=e227] [cursor=pointer]:
+              - /url: https://redmapledental.ca/contact-us/
+              - generic [ref=e228]: Book Appointment
+          - generic [ref=e125]:
+            - generic [ref=e229]:
+              - heading "WHAT WE OFFER" [level=2] [ref=e231]
+              - heading "Affordable Dental Implants & Cosmetic Options in Brampton" [level=2] [ref=e233]
+            - paragraph [ref=e236]:
+              - text: At Red Maple Dental, our dental clinic offers comprehensive services to meet all your dental needs, from
+              - link "emergency care" [ref=e237] [cursor=pointer]:
+                - /url: https://redmapledental.ca/comprehensive-family-dentistry-services/emergency-dental-care-in-northeast-brampton/
+              - text: and
+              - link "family dentistry" [ref=e238] [cursor=pointer]:
+                - /url: https://redmapledental.ca/comprehensive-family-dentistry-services/
+              - text: to
+              - link "cosmetic treatments" [ref=e239] [cursor=pointer]:
+                - /url: https://redmapledental.ca/cosmetic-care/
+              - text: and
+              - link "dental implants." [ref=e240] [cursor=pointer]:
+                - /url: https://redmapledental.ca/restorative-dentistry/dental-implants-in-northeast-brampton/
+              - text: Our experienced dentists are committed to providing exceptional care with a personal touch. We understand the importance of affordability in healthcare, so we offer budget-friendly options for our valued patients. At Red Maple Dental, we’re not just providing dental care — we’re creating lasting smiles for you and your family.
+          - generic [ref=e126]:
+            - generic [ref=e130]:
+              - heading "No-Obligation Consultation" [level=2] [ref=e133]
+              - heading "Same-Day Appointments" [level=2] [ref=e136]
+              - heading "Emergency Walk-Ins Welcome" [level=2] [ref=e139]
+            - generic [ref=e143]:
+              - heading "0% Financing Available" [level=2] [ref=e146]
+              - heading "Direct Insurance Billing" [level=2] [ref=e149]
+              - heading "Open 6 Days A Week" [level=2] [ref=e152]
+              - heading "0% Financing Available" [level=2] [ref=e155]
+              - heading "Direct Insurance Billing" [level=2] [ref=e158]
+              - heading "Open 6 Days A Week" [level=2] [ref=e161]
+          - generic [ref=e164]:
+            - heading "Emergency Dentist Services in Brampton" [level=2] [ref=e242]
+            - paragraph [ref=e244]:
+              - text: At Red Maple, we recognize the urgency of
+              - link "dental emergencies" [ref=e245] [cursor=pointer]:
+                - /url: https://redmapledental.ca/comprehensive-family-dentistry-services/emergency-dental-care-in-northeast-brampton/
+              - text: ", offering same-day emergency appointments with our experienced emergency dentists for swift and effective care. If you’re dealing with a severe toothache, a knocked-out tooth, or a broken restoration, our team is ready to help. Signs of a dental emergency include persistent pain, trauma, and damaged restorations. We prioritize your comfort and aim to alleviate your pain promptly. Our skilled emergency dentists conduct thorough examinations, providing tailored solutions like"
+              - link "root canal therapy" [ref=e246] [cursor=pointer]:
+                - /url: https://redmapledental.ca/comprehensive-family-dentistry-services/root-canal-therapy-in-northeast-brampton/
+              - text: ","
+              - link "extractions" [ref=e247] [cursor=pointer]:
+                - /url: https://redmapledental.ca/comprehensive-family-dentistry-services/safe-tooth-extractions-in-northeast-brampton/
+              - text: ", and emergency repairs. Rest assured, at Red Maple, you’re in capable hands—we’re dedicated to delivering timely and compassionate emergency dental care."
+            - link "Call for Emergency" [ref=e253] [cursor=pointer]:
+              - /url: tel:9059132223
+              - generic [ref=e254]: Call for Emergency
+          - generic [ref=e165]:
+            - generic [ref=e173]:
+              - generic [ref=e174]:
+                - heading "LOOKING FOR A DENTIST IN BRAMPTON?" [level=2] [ref=e258]
+                - heading "How does the clinic help First Nations patients with the NIHB Program?" [level=2] [ref=e260]
+              - paragraph [ref=e262]: Are you searching for a friendly dentist in Brampton? Your search ends here! We welcome new patients of all ages, whether your little ones need a check-up or your grandparents are considering dentures. Our consultations guarantee personalized care tailored to you, ensuring a positive experience regardless of age!
+              - generic [ref=e175]:
+                - link "Book Appointment" [ref=e268] [cursor=pointer]:
+                  - /url: https://redmapledental.ca/contact-us/
+                  - generic [ref=e269]: Book Appointment
+                - generic [ref=e271]:
+                  - link [ref=e274] [cursor=pointer]:
+                    - /url: tel:9059132223
+                    - img [ref=e275]
+                  - generic [ref=e280]:
+                    - heading "Call Us Here" [level=2] [ref=e282]
+                    - heading "905-913-2223" [level=2] [ref=e284]
+            - generic [ref=e179]:
+              - heading "Are you looking for a dental clinic in Brampton?" [level=2] [ref=e287]
+              - generic [ref=e288]:
+                - paragraph [ref=e289]: If you’re in Brampton, visit us at our dental clinic at 6475 Mayfield Rd Unit 104, Brampton, ON L6P 4N2. We strive to create a welcoming and comfortable environment where you can feel at ease during your appointment. We understand that visiting the dentist can be daunting for some people, so we go the extra mile to ensure you feel relaxed and confident in our care.
+                - paragraph [ref=e290]: So why wait? Book an appointment with us today and experience the high-quality dental care you deserve in a friendly and welcoming environment.
+              - link "Get Directions" [ref=e296] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e297]: Get Directions
+          - generic [ref=e298]:
+            - heading "Efficient and Compassionate Dental Care for NIHB Members at OAK Accounts" [level=2] [ref=e300]
+            - link "Learn More" [ref=e305] [cursor=pointer]:
+              - /url: https://redmapledental.ca/non-insured-health-benefits-for-first-nations-and-inuits/
+              - generic [ref=e306]: Learn More
+          - generic [ref=e183]:
+            - generic [ref=e184]:
+              - heading "Book Your Free Consultation Today" [level=2] [ref=e308]
+              - link "Book Appointment" [ref=e314] [cursor=pointer]:
+                - /url: https://redmapledental.ca/contact-us/
+                - generic [ref=e315]: Book Appointment
+            - paragraph [ref=e318]:
+              - text: Start your journey to the perfect smile with a personalized consultation at Red Maple Dental in Brampton. Whether you’re interested in
+              - link "dental implants" [ref=e319] [cursor=pointer]:
+                - /url: https://redmapledental.ca/restorative-dentistry/dental-implants-in-northeast-brampton/
+              - text: ","
+              - link "Invisalign" [ref=e320] [cursor=pointer]:
+                - /url: https://redmapledental.ca/orthodontics/invisalign-in-northeast-brampton/
+              - text: ", or"
+              - link "dentures" [ref=e321] [cursor=pointer]:
+                - /url: https://redmapledental.ca/restorative-dentistry/dentures-in-northeast-brampton/
+              - text: ", we offer tailored guidance and expert advice to help you achieve your dream smile."
+          - generic [ref=e186]:
+            - heading "Frequently Asked Questions" [level=2] [ref=e326]
+            - generic [ref=e329]:
+              - generic [ref=e331]:
+                - heading "What should I expect during my first dental appointment at Red Maple Dental?" [level=3] [ref=e332]
+                - generic [ref=e333]:
+                  - text: 
+                  - generic [ref=e334]: 
+              - generic [ref=e336]:
+                - heading "Does Red Maple Dental accept government insurance plans?" [level=3] [ref=e337]
+                - generic [ref=e338]:
+                  - text: 
+                  - generic [ref=e339]: 
+              - generic [ref=e341]:
+                - heading "How can I complete my patient forms before my appointment?" [level=3] [ref=e342]
+                - generic [ref=e343]:
+                  - text: 
+                  - generic [ref=e344]: 
+              - generic [ref=e346]:
+                - heading "Does Red Maple Dental offer financing options for dental treatments?" [level=3] [ref=e347]
+                - generic [ref=e348]:
+                  - text: 
+                  - generic [ref=e349]: 
+              - generic [ref=e351]:
+                - heading "Will my insurance be billed directly, or do I need to submit claims myself?" [level=3] [ref=e352]
+                - generic [ref=e353]:
+                  - text: 
+                  - generic [ref=e354]: 
+              - generic [ref=e356]:
+                - heading "What dental services does Red Maple Dental offer for children and pediatric patients?" [level=3] [ref=e357]
+                - generic [ref=e358]:
+                  - text: 
+                  - generic [ref=e359]: 
+              - generic [ref=e361]:
+                - heading "Can I receive sedation during my dental procedure if I'm anxious or nervous?" [level=3] [ref=e362]
+                - generic [ref=e363]:
+                  - text: 
+                  - generic [ref=e364]: 
+    - contentinfo [ref=e195]:
+      - generic [ref=e196]:
+        - generic [ref=e365]:
+          - heading "Red Maple Dental, Canada" [level=2] [ref=e367]
+          - paragraph [ref=e369]:
+            - text: 6475 Mayfield Rd Unit 104,
+            - text: Brampton, ON L6P 4N2
+        - iframe [ref=e201]:
+          
+      - generic [ref=e202]:
+        - generic [ref=e203]:
+          - generic [ref=e372]:
+            - heading "Quick Links" [level=2] [ref=e374]
+            - list [ref=e376]:
+              - listitem [ref=e377]:
+                - link "About Us" [ref=e378] [cursor=pointer]:
+                  - /url: https://redmapledental.ca/about-us/
+                  - generic [ref=e379]: About Us
+              - listitem [ref=e380]:
+                - link "Dental Services" [ref=e381] [cursor=pointer]:
+                  - /url: https://redmapledental.ca/service/comprehensive-family-dentistry-services/
+                  - generic [ref=e382]: Dental Services
+              - listitem [ref=e383]:
+                - link "For New Patients" [ref=e384] [cursor=pointer]:
+                  - /url: https://redmapledental.ca/for-patients/
+                  - generic [ref=e385]: For New Patients
+              - listitem [ref=e386]:
+                - link "Contact Us" [ref=e387] [cursor=pointer]:
+                  - /url: https://redmapledental.ca/contact-us/
+                  - generic [ref=e388]: Contact Us
+          - generic [ref=e389]:
+            - heading "Opening Hours" [level=2] [ref=e391]
+            - list [ref=e393]:
+              - listitem [ref=e394]:
+                - generic [ref=e395]: "Monday - Friday : 9am - 8pm"
+              - listitem [ref=e396]:
+                - generic [ref=e397]: "Saturday - Sunday : 9am - 5pm"
+            - generic [ref=e398]:
+              - generic [ref=e402]: 
+              - generic [ref=e406]: 
+              - img [ref=e410]
+          - generic [ref=e412]:
+            - heading "Contact Us" [level=2] [ref=e414]
+            - list [ref=e416]:
+              - listitem [ref=e417]:
+                - link "905-913-2223" [ref=e418] [cursor=pointer]:
+                  - /url: tel:9059132223
+                  - generic [ref=e420]: 
+                  - generic [ref=e421]: 905-913-2223
+              - listitem [ref=e422]:
+                - link "6475 Mayfield Rd Unit 104, Brampton, ON L6P 4N2" [ref=e423] [cursor=pointer]:
+                  - /url: https://maps.app.goo.gl/CEDTP23bXwrZZGEz7
+                  - generic [ref=e425]: 
+                  - generic [ref=e426]:
+                    - text: 6475 Mayfield Rd Unit 104,
+                    - text: Brampton, ON L6P 4N2
+        - generic [ref=e210]:
+          - paragraph [ref=e429]: Copyright © 2026 Red Maple Dental.
+          - paragraph [ref=e431]:
+            - text: Dental Website Design by
+            - link [ref=e432] [cursor=pointer]:
+              - /url: http://pracpros.com/
+              - img [ref=e433]

@@ -1,0 +1,88 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-PH
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjPvbSy56KUAxXsbPUHHfqwC8IQPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Search" [ref=e26]: cache:millbridgedentistry.com cache:millbridgedentistry.com
+            - generic [ref=e27]:
+              - button "Clear" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Search by voice" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Search by image" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Search" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Settings" [ref=e48] [cursor=pointer]
+      - generic [ref=e49]:
+        - button "Google apps" [ref=e51] [cursor=pointer]:
+          - img [ref=e52]
+        - link "Sign in" [ref=e56] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://webcache.googleusercontent.com/search%3Fq%3Dcache:millbridgedentistry.com%26sei%3D9zr6abHHLP2mvr0PyYCRmA8&ec=futura_srp_og_si_72236_p
+  - generic [ref=e58]:
+    - navigation [ref=e64]:
+      - list [ref=e67]:
+        - listitem [ref=e68]:
+          - link "AI Mode" [ref=e71] [cursor=pointer]:
+            - /url: /search?q=cache:millbridgedentistry.com&sca_esv=39f50cfd4d7ec138&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwnFUBJ2uyTXGY7FrnjAwa7NevhywVsZSgNHw7ZPWpcM5q98oWhROuQ-K5m3adDgF9f5Rc2KSnNDjARKQOezKQIvorVGjxl8ldEywzyFnkudKerKMwa4-2HH2PHZbpDCWs-QOafkcKF-MQXe18JbDaK8uo-M3g&aep=1&ntc=1&sa=X&ved=2ahUKEwjPvbSy56KUAxXsbPUHHfqwC8IQ2J8OegQIDBAD
+            - generic [ref=e74]: AI Mode
+        - listitem [ref=e75]:
+          - link "All" [disabled] [ref=e76]:
+            - generic [ref=e78]: All
+        - listitem [ref=e79]:
+          - link "Shopping" [ref=e80] [cursor=pointer]:
+            - /url: /search?sca_esv=39f50cfd4d7ec138&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwnFUBJ2uyTXGY7FrnjAwa7NevhywVsZSgNHw7ZPWpcM5q98oWhROuQ-K5m3adDgF9f5Rc2KSnNDjARKQOezKQIvorVGjxl8ldEywzyFnkudKerKMwa4-2HH2PHZbpDCWs-QOafkcKF-MQXe18JbDaK8uo-M3g&q=cache:millbridgedentistry.com&ved=1t:220175&ictx=111
+            - generic [ref=e82]: Shopping
+        - listitem [ref=e83]:
+          - link "Images" [ref=e84] [cursor=pointer]:
+            - /url: /search?sca_esv=39f50cfd4d7ec138&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwnFUBJ2uyTXGY7FrnjAwa7NevhywVsZSgNHw7ZPWpcM5q98oWhROuQ-K5m3adDgF9f5Rc2KSnNDjARKQOezKQIvorVGjxl8ldEywzyFnkudKerKMwa4-2HH2PHZbpDCWs-QOafkcKF-MQXe18JbDaK8uo-M3g&q=cache:millbridgedentistry.com&sa=X&ved=2ahUKEwjPvbSy56KUAxXsbPUHHfqwC8IQtKgLegQIERAB
+            - generic [ref=e86]: Images
+        - listitem [ref=e87]:
+          - link "Short videos" [ref=e88] [cursor=pointer]:
+            - /url: /search?sca_esv=39f50cfd4d7ec138&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwnFUBJ2uyTXGY7FrnjAwa7NevhywVsZSgNHw7ZPWpcM5q98oWhROuQ-K5m3adDgF9f5Rc2KSnNDjARKQOezKQIvorVGjxl8ldEywzyFnkudKerKMwa4-2HH2PHZbpDCWs-QOafkcKF-MQXe18JbDaK8uo-M3g&q=cache:millbridgedentistry.com&sa=X&ved=2ahUKEwjPvbSy56KUAxXsbPUHHfqwC8IQs6gLegQIDhAB
+            - generic [ref=e90]: Short videos
+        - listitem [ref=e91]:
+          - link "Forums" [ref=e92] [cursor=pointer]:
+            - /url: /search?sca_esv=39f50cfd4d7ec138&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwnFUBJ2uyTXGY7FrnjAwa7NevhywVsZSgNHw7ZPWpcM5q98oWhROuQ-K5m3adDgF9f5Rc2KSnNDjARKQOezKQIvorVGjxl8ldEywzyFnkudKerKMwa4-2HH2PHZbpDCWs-QOafkcKF-MQXe18JbDaK8uo-M3g&q=cache:millbridgedentistry.com&sa=X&ved=2ahUKEwjPvbSy56KUAxXsbPUHHfqwC8IQs6gLegQIDxAB
+            - generic [ref=e94]: Forums
+        - listitem [ref=e95]:
+          - link "Videos" [ref=e96] [cursor=pointer]:
+            - /url: /search?sca_esv=39f50cfd4d7ec138&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp9lEhFAN_4ain3HSNQWw-mMGVXS0bCMe2eDZOQ2MOTwnFUBJ2uyTXGY7FrnjAwa7NevhywVsZSgNHw7ZPWpcM5q98oWhROuQ-K5m3adDgF9f5Rc2KSnNDjARKQOezKQIvorVGjxl8ldEywzyFnkudKerKMwa4-2HH2PHZbpDCWs-QOafkcKF-MQXe18JbDaK8uo-M3g&q=cache:millbridgedentistry.com&sa=X&ved=2ahUKEwjPvbSy56KUAxXsbPUHHfqwC8IQtKgLegQIEBAB
+            - generic [ref=e98]: Videos
+        - listitem [ref=e99]:
+          - button "More filters" [ref=e100] [cursor=pointer]:
+            - generic "More filters" [ref=e101]:
+              - generic [ref=e102]:
+                - generic [ref=e103]: More
+                - img [ref=e105]
+    - heading "Search Results" [level=1] [ref=e107]
+    - main [ref=e113]:
+      - generic [ref=e115]:
+        - generic [ref=e117]:
+          - heading "Your search - cache:millbridgedentistry.com - did not match any documents." [level=3] [ref=e118]:
+            - text: Your search -
+            - emphasis [ref=e120]: cache:millbridgedentistry.com
+            - text: "- did not match any documents."
+          - paragraph [ref=e121]: "Suggestions:"
+          - list [ref=e122]:
+            - listitem [ref=e123]: Make sure all words are spelled correctly.
+            - listitem [ref=e124]: Try different keywords.
+            - listitem [ref=e125]: Try more general keywords.
+          - img "An image of a yeti fishing for something in the ice" [ref=e129]:
+            - img [ref=e133]
+        - navigation
+      - navigation
+    - contentinfo [ref=e216]:
+      - heading "Footer Links" [level=1] [ref=e217]

@@ -1,0 +1,33 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - button "Menu Toggle" [ref=e9] [cursor=pointer]:
+          - img [ref=e10]
+        - generic [ref=e18]: 
+        - generic [ref=e23] [cursor=pointer]: 
+      - text:  
+    - main [ref=e27]:
+      - article [ref=e28]:
+        - generic [ref=e30]:
+          - heading "Quality Care For Your Whole Family in Brampton" [level=1] [ref=e35]
+          - generic [ref=e53]:
+            - heading "LOOKING FOR A DENTIST IN BRAMPTON?" [level=2] [ref=e56]
+            - heading "We’re Accepting New Patients" [level=2] [ref=e58]
+            - generic [ref=e59]: Are you searching for a friendly dentist in Brampton? Your search ends here! We welcome new patients of all ages, whether your little ones need a check-up or your grandparents are considering dentures. Our consultations guarantee personalized care tailored to you, ensuring a positive experience regardless of age!
+            - generic [ref=e60]:
+              - link "Book Appointment" [ref=e66] [cursor=pointer]:
+                - /url: https://redmapledental.ca/contact-us/
+                - generic [ref=e67]: Book Appointment
+              - generic [ref=e69]:
+                - link [ref=e72] [cursor=pointer]:
+                  - /url: tel:9059132223
+                  - img [ref=e73]
+                - generic [ref=e78]:
+                  - heading "Call Us Here" [level=2] [ref=e80]
+                  - heading "905-913-2223" [level=2] [ref=e82]
+    - contentinfo [ref=e102]:
+      - iframe [ref=e108]:
+        
