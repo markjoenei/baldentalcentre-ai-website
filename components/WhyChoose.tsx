@@ -1,13 +1,19 @@
 "use client";
 
 import Image from "next/image";
-import { useState } from "react";
+import { useState, type CSSProperties } from "react";
 import { whyChooseItems } from "./data";
 import { ChevronDownIcon } from "./icons";
 
-function Sparkle({ className = "" }: { className?: string }) {
+function Sparkle({
+  className = "",
+  style,
+}: {
+  className?: string;
+  style?: CSSProperties;
+}) {
   return (
-    <svg viewBox="0 0 24 24" className={className} aria-hidden="true">
+    <svg viewBox="0 0 24 24" className={className} style={style} aria-hidden="true">
       <path
         d="M12 0L13.5 8.5L22 12L13.5 15.5L12 24L10.5 15.5L2 12L10.5 8.5L12 0Z"
         fill="currentColor"
