@@ -1,4 +1,4 @@
-import { ADDRESS_LINE, PHONE_DISPLAY, PHONE_TEL } from "./data";
+import { ADDRESS_LINE, DIRECTIONS_URL, PHONE_DISPLAY, PHONE_TEL } from "./data";
 import { FacebookIcon, InstagramIcon, MapPinIcon, PhoneIcon, YouTubeIcon } from "./icons";
 
 export default function TopBar() {
@@ -6,13 +6,18 @@ export default function TopBar() {
     <div className="relative w-full overflow-hidden bg-navy-gradient text-cream">
       <div className="pointer-events-none absolute inset-y-0 right-0 w-1/2 bg-gradient-to-l from-gold/[0.08] to-transparent" />
       <div className="relative mx-auto flex h-auto min-h-[44px] max-w-[1280px] flex-wrap items-center justify-between gap-y-2 px-4 py-2 md:h-[44px] md:flex-nowrap md:py-0">
-        <div className="flex items-center gap-2.5 text-[12px] md:text-[13px]">
+        <a
+          href={DIRECTIONS_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-2.5 text-[12px] transition-colors hover:text-gold md:text-[13px]"
+        >
           <span className="inline-flex h-6 w-6 items-center justify-center rounded-full bg-gold/15 ring-1 ring-gold/30">
             <MapPinIcon className="h-[11px] w-[11px] fill-gold" />
           </span>
           <span className="hidden text-cream/90 sm:inline">{ADDRESS_LINE}</span>
-          <span className="text-cream/90 sm:hidden">4 Greystone Walk Dr #4, Scarborough</span>
-        </div>
+          <span className="text-cream/90 sm:hidden">4 Greystone Walk Dr #4 Scarborough</span>
+        </a>
 
         <div className="flex items-center gap-3">
           <a

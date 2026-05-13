@@ -2,35 +2,18 @@
 
 import { useState } from "react";
 import { ArrowRightIcon, CheckIcon } from "../icons";
-import { services } from "./servicesData";
-
-const timeSlots = [
-  "9:00 AM",
-  "10:00 AM",
-  "11:00 AM",
-  "12:00 PM",
-  "1:00 PM",
-  "2:00 PM",
-  "3:00 PM",
-  "4:00 PM",
-  "5:00 PM",
-  "6:00 PM",
-];
 
 export default function BookingForm() {
   const [submitted, setSubmitted] = useState(false);
   const [form, setForm] = useState({
-    name: "",
-    email: "",
+    firstName: "",
+    lastName: "",
     phone: "",
-    service: "",
-    date: "",
-    time: "",
-    newPatient: "yes",
-    notes: "",
+    email: "",
+    message: "",
   });
 
-  const onChange = (k: keyof typeof form) => (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+  const onChange = (k: keyof typeof form) => (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     setForm((prev) => ({ ...prev, [k]: e.target.value }));
   };
 
@@ -49,27 +32,13 @@ export default function BookingForm() {
             <CheckIcon className="relative h-8 w-8 fill-white" />
           </span>
           <h2 className="text-[26px] font-bold leading-[1.2] tracking-[-0.01em] text-navy sm:text-[30px]">
-            Thanks, <span className="text-gradient-gold">{form.name.split(" ")[0] || "we got it!"}</span>
+            Thanks, <span className="text-gradient-gold">{form.firstName || "we got it!"}</span>
           </h2>
           <p className="max-w-[520px] text-[14.5px] leading-[1.7] text-ink-muted">
-            Your booking request has been received. A team member will call you within{" "}
+            Your request has been received. A team member will call you within{" "}
             <span className="font-semibold text-navy">2 business hours</span> to confirm
-            your appointment for{" "}
-            <span className="font-semibold text-navy">{form.date || "your selected date"}</span>{" "}
-            at <span className="font-semibold text-navy">{form.time || "your preferred time"}</span>.
+            your appointment.
           </p>
-          <div className="mt-2 grid grid-cols-2 gap-4 text-left sm:gap-6">
-            <div className="rounded-xl border border-cream-line bg-white p-4">
-              <p className="text-[10.5px] font-bold uppercase tracking-[0.12em] text-gold">Service</p>
-              <p className="mt-1 text-[13.5px] font-semibold text-navy">
-                {services.find((s) => s.slug === form.service)?.label || "General consultation"}
-              </p>
-            </div>
-            <div className="rounded-xl border border-cream-line bg-white p-4">
-              <p className="text-[10.5px] font-bold uppercase tracking-[0.12em] text-gold">Contact</p>
-              <p className="mt-1 text-[13.5px] font-semibold text-navy">{form.phone || form.email}</p>
-            </div>
-          </div>
           <button
             type="button"
             onClick={() => setSubmitted(false)}
@@ -88,23 +57,23 @@ export default function BookingForm() {
       className="relative overflow-hidden rounded-3xl border border-cream-line bg-white p-6 shadow-lift sm:p-8 lg:p-10"
     >
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
-        <Field label="Full Name" required>
+        <Field label="First Name" required>
           <input
             type="text"
             required
-            value={form.name}
-            onChange={onChange("name")}
-            placeholder="Jane Smith"
+            value={form.firstName}
+            onChange={onChange("firstName")}
+            placeholder="Jane"
             className="input"
           />
         </Field>
-        <Field label="Email Address" required>
+        <Field label="Last Name" required>
           <input
-            type="email"
+            type="text"
             required
-            value={form.email}
-            onChange={onChange("email")}
-            placeholder="jane@example.com"
+            value={form.lastName}
+            onChange={onChange("lastName")}
+            placeholder="Smith"
             className="input"
           />
         </Field>
@@ -118,63 +87,24 @@ export default function BookingForm() {
             className="input"
           />
         </Field>
-        <Field label="Are you a new patient?" required>
-          <select
-            required
-            value={form.newPatient}
-            onChange={onChange("newPatient")}
-            className="input"
-          >
-            <option value="yes">Yes, I'm new</option>
-            <option value="returning">No, returning patient</option>
-            <option value="emergency">It's an emergency</option>
-          </select>
-        </Field>
-        <div className="sm:col-span-2">
-          <Field label="What service are you interested in?" required>
-            <select
-              required
-              value={form.service}
-              onChange={onChange("service")}
-              className="input"
-            >
-              <option value="">Choose a service…</option>
-              {services.map((s) => (
-                <option key={s.slug} value={s.slug}>
-                  {s.label}
-                </option>
-              ))}
-              <option value="not-sure">Not sure — I need a consultation</option>
-            </select>
-          </Field>
-        </div>
-        <Field label="Preferred Date" required>
+        <Field label="Email Address" required>
           <input
-            type="date"
+            type="email"
             required
-            value={form.date}
-            onChange={onChange("date")}
-            min={new Date().toISOString().split("T")[0]}
+            value={form.email}
+            onChange={onChange("email")}
+            placeholder="jane@example.com"
             className="input"
           />
         </Field>
-        <Field label="Preferred Time" required>
-          <select required value={form.time} onChange={onChange("time")} className="input">
-            <option value="">Choose a time…</option>
-            {timeSlots.map((t) => (
-              <option key={t} value={t}>
-                {t}
-              </option>
-            ))}
-          </select>
-        </Field>
         <div className="sm:col-span-2">
-          <Field label="Anything else we should know?">
+          <Field label="Message" required>
             <textarea
-              rows={4}
-              value={form.notes}
-              onChange={onChange("notes")}
-              placeholder="Specific concerns, insurance details, or accessibility needs…"
+              required
+              rows={5}
+              value={form.message}
+              onChange={onChange("message")}
+              placeholder="Tell us how we can help…"
               className="input resize-none"
             />
           </Field>
@@ -202,7 +132,6 @@ export default function BookingForm() {
           width: 100%;
           border-radius: 0.75rem;
           border: 1px solid var(--color-cream-line);
-          background: var(--color-cream);
           background: rgba(247, 245, 234, 0.4);
           padding: 0.75rem 1rem;
           font-size: 14px;

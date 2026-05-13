@@ -150,6 +150,7 @@ export default function FeaturedServices() {
                   alt={current.label}
                   fill
                   className="animate-fade-in object-cover transition-transform duration-700 group-hover:scale-110"
+                  style={{ objectPosition: current.imagePosition ?? "center" }}
                   sizes="(max-width: 768px) 100vw, 42vw"
                   key={current.id}
                 />

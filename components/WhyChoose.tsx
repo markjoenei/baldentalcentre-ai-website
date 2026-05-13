@@ -121,34 +121,14 @@ export default function WhyChoose() {
             <div className="pointer-events-none absolute -bottom-4 -left-4 h-20 w-20 rounded-bl-3xl border-b-2 border-l-2 border-gold/40" />
             <div className="pointer-events-none absolute -right-8 top-1/4 h-16 w-16 animate-spin-slow rounded-full border-2 border-dashed border-gold/25" />
 
-            <div className="grid grid-cols-2 gap-3 lg:gap-4">
-              <div className="hover-lift animate-fade-up overflow-hidden rounded-2xl shadow-card hover:shadow-lift">
-                <Image
-                  src="/images/about-why-choose.png"
-                  alt="Smiling patient"
-                  width={320}
-                  height={240}
-                  className="h-[180px] w-full object-cover transition-transform duration-700 hover:scale-110 sm:h-[210px]"
-                />
-              </div>
-              <div className="hover-lift animate-fade-up overflow-hidden rounded-2xl shadow-card hover:shadow-lift" style={{ animationDelay: "150ms" }}>
-                <Image
-                  src="/images/patient-smiles-collage-2.png"
-                  alt="Patient collage"
-                  width={320}
-                  height={240}
-                  className="h-[180px] w-full object-cover transition-transform duration-700 hover:scale-110 sm:h-[210px]"
-                />
-              </div>
-              <div className="hover-lift animate-fade-up col-span-2 overflow-hidden rounded-2xl shadow-card hover:shadow-lift" style={{ animationDelay: "300ms" }}>
-                <Image
-                  src="/images/about-why-choose-sm.png"
-                  alt="Senior couple smiling"
-                  width={640}
-                  height={260}
-                  className="h-[200px] w-full object-cover transition-transform duration-700 hover:scale-105 sm:h-[220px]"
-                />
-              </div>
+            <div className="hover-lift animate-fade-up overflow-hidden rounded-3xl shadow-card ring-1 ring-white/40 hover:shadow-lift">
+              <Image
+                src="/images/why-choose-feature.jpg"
+                alt="Happy senior patients trusting Bal Dental Centre"
+                width={1200}
+                height={900}
+                className="h-[360px] w-full object-cover transition-transform duration-700 hover:scale-105 sm:h-[440px] lg:h-[520px]"
+              />
             </div>
 
             {/* Trust card */}

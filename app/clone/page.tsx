@@ -203,7 +203,7 @@ export default function ClonePage() {
               <svg viewBox="0 0 384 512" className="w-[14px] h-[14px] fill-[#a2844e] flex-shrink-0">
                 <path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z" />
               </svg>
-              <span className="hidden sm:inline">4 Greystone Walk Dr #4, Scarborough, ON M1K 5J2, Canada</span>
+              <span className="hidden sm:inline">4 Greystone Walk Dr #4 Scarborough, ON M1K 5J2</span>
               <span className="sm:hidden">Scarborough, ON M1K 5J2</span>
             </div>
             {/* Center: Phone */}
@@ -489,7 +489,7 @@ export default function ClonePage() {
               <svg viewBox="0 0 384 512" className="w-[18px] h-[18px] fill-[#a2844e] flex-shrink-0">
                 <path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z" />
               </svg>
-              <p style={{ color: "#f7f5ea", fontSize: "18px" }}>4 Greystone Walk Dr #4, Scarborough, ON M1K 5J2, Canada</p>
+              <p style={{ color: "#f7f5ea", fontSize: "18px" }}>4 Greystone Walk Dr #4 Scarborough, ON M1K 5J2</p>
             </div>
           </div>
         </section>
@@ -749,7 +749,7 @@ export default function ClonePage() {
             ===================================================== */}
         <div className="w-full">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.7!2d-79.2528!3d43.7399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d0c9b5e7ef3f%3A0x9e5c2e3bac8d9f1a!2s4%20Greystone%20Walk%20Dr%20%234%2C%20Scarborough%2C%20ON%20M1K%205J2%2C%20Canada!5e0!3m2!1sen!2sca!4v1234567890"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.7!2d-79.2525449!3d43.7247278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4ce365ec14963%3A0x3204a1154c78196a!2sBal%20Dental%20Centre!5e0!3m2!1sen!2sca!4v1234567890"
             width="100%"
             height="458"
             style={{ border: 0, display: "block" }}
@@ -805,9 +805,9 @@ export default function ClonePage() {
               <div>
                 <h3 style={{ color: "#f7f5ea", fontSize: "18px", fontWeight: 600, marginBottom: "16px" }}>Our Location</h3>
                 <p style={{ color: "#c8c4b8", fontSize: "14px", lineHeight: "1.7", marginBottom: "16px" }}>
-                  4 Greystone Walk Dr #4<br />Scarborough, ON M1K 5J2<br />Canada
+                  4 Greystone Walk Dr #4<br />Scarborough, ON M1K 5J2
                 </p>
-                <a href="https://www.google.com/maps/dir//Bal+Dental+Centre,+4+Greystone+Walk+Dr+%234,+Scarborough,+ON+M1K+5J2,+Canada/" target="_blank" rel="noopener noreferrer" style={{ display: "inline-block", backgroundColor: "#a2844e", color: "#ffffff", fontSize: "14px", fontWeight: 600, padding: "10px 20px", borderRadius: "6px", textDecoration: "none", transition: "all 0.3s ease" }} className="hover:opacity-90">
+                <a href="https://www.google.com/maps/place/Bal+Dental+Centre/@43.7247316,-79.2551198,785m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89d4ce365ec14963:0x3204a1154c78196a!8m2!3d43.7247278!4d-79.2525449!16s%2Fg%2F1hhksygg_?entry=tts" target="_blank" rel="noopener noreferrer" style={{ display: "inline-block", backgroundColor: "#a2844e", color: "#ffffff", fontSize: "14px", fontWeight: 600, padding: "10px 20px", borderRadius: "6px", textDecoration: "none", transition: "all 0.3s ease" }} className="hover:opacity-90">
                   Get Direction
                 </a>
               </div>

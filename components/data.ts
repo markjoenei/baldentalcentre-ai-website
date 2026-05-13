@@ -3,15 +3,15 @@ export const PHONE_TEL = "+14162676789";
 export const PHONE_2_DISPLAY = "647-490-0674";
 export const PHONE_2_TEL = "+16474900674";
 export const EMAIL = "info@baldentalcentre.com";
-export const ADDRESS_LINE = "4 Greystone Walk Dr #4, Scarborough, ON M1K 5J2, Canada";
-export const ADDRESS_MULTI = ["4 Greystone Walk Dr #4", "Scarborough, ON M1K 5J2", "Canada"];
+export const ADDRESS_LINE = "4 Greystone Walk Dr #4 Scarborough, ON M1K 5J2";
+export const ADDRESS_MULTI = ["4 Greystone Walk Dr #4", "Scarborough, ON M1K 5J2"];
 export const BOOK_URL = "/book-appointment";
 export const REVIEW_URL =
   "https://chatrbee.com/recommend?Bal-Dental-Centre&name=aa&numb=00&uniquekey=Bal-Dental-Centre.108&code=T7aIVqEHY5kZxCy&useremail=email";
 export const DIRECTIONS_URL =
-  "https://www.google.com/maps/dir//Bal+Dental+Centre,+4+Greystone+Walk+Dr+%234,+Scarborough,+ON+M1K+5J2,+Canada/";
+  "https://www.google.com/maps/place/Bal+Dental+Centre/@43.7247316,-79.2551198,785m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89d4ce365ec14963:0x3204a1154c78196a!8m2!3d43.7247278!4d-79.2525449!16s%2Fg%2F1hhksygg_?entry=tts";
 export const MAP_EMBED_URL =
-  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.7!2d-79.2528!3d43.7399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4d0c9b5e7ef3f%3A0x9e5c2e3bac8d9f1a!2s4%20Greystone%20Walk%20Dr%20%234%2C%20Scarborough%2C%20ON%20M1K%205J2%2C%20Canada!5e0!3m2!1sen!2sca!4v1234567890";
+  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.7!2d-79.2525449!3d43.7247278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4ce365ec14963%3A0x3204a1154c78196a!2sBal%20Dental%20Centre!5e0!3m2!1sen!2sca!4v1234567890";
 
 export const navServices: Array<{ label: string; href: string }> = [
   { label: "Preventive Dentistry", href: "/services/preventive-dentistry" },
@@ -96,14 +96,24 @@ export const faqItems = [
   },
 ];
 
-export const featuredServices = [
+type FeaturedService = {
+  id: number;
+  label: string;
+  heading: string;
+  body: string;
+  image: string;
+  imagePosition?: string;
+  url: string;
+};
+
+export const featuredServices: FeaturedService[] = [
   {
     id: 0,
     label: "Preventive Dentistry",
     heading: "PREVENTIVE DENTISTRY — PROTECT YOUR SMILE FOR LIFE",
     body:
       "Regular cleanings, exams, and fluoride treatments keep your teeth healthy and catch problems early before they become costly issues.",
-    image: "/images/hero-slide-1-comprehensive-dental-care.png",
+    image: "/images/service-preventive.jpg",
     url: "/services/preventive-dentistry",
   },
   {
@@ -112,7 +122,7 @@ export const featuredServices = [
     heading: "DENTAL CROWNS & BRIDGES RESTORE TEETH & REGAIN CONFIDENCE",
     body:
       "Missing one or more teeth? Traditional dental crowns and bridges are a tried-and-true restorative dentistry solution. Crowns can reverse damage and decay by restoring the top.",
-    image: "/images/hero-slide-2-dental-crowns-bridges.png",
+    image: "/images/service-crowns.jpg",
     url: "/services/dental-crowns-bridges",
   },
   {
@@ -121,7 +131,7 @@ export const featuredServices = [
     heading: "ROOT CANALS & EMERGENCIES — SAME-DAY PAIN RELIEF",
     body:
       "Severe toothache? We provide same-day emergency care and gentle root canal therapy to relieve pain and save your natural tooth.",
-    image: "/images/hero-slide-3-dental-emergencies.png",
+    image: "/images/service-emergency.jpg",
     url: "/services/dental-emergency",
   },
   {
@@ -130,7 +140,8 @@ export const featuredServices = [
     heading: "COSMETIC DENTISTRY — GET THE SMILE OF YOUR DREAMS",
     body:
       "Veneers, bonding, whitening, and smile makeovers — our cosmetic treatments are tailored to give you a radiant, confident smile.",
-    image: "/images/hero-slide-4-cosmetic-dentistry.png",
+    image: "/images/service-cosmetic.jpg",
+    imagePosition: "top",
     url: "/services/cosmetic-dentistry",
   },
   {
@@ -139,7 +150,7 @@ export const featuredServices = [
     heading: "DENTAL IMPLANTS — PERMANENT NATURAL-FEELING TEETH",
     body:
       "Replace one or all your missing teeth with permanent implants that look and function exactly like your natural teeth. Starting at $3,000 all-inclusive.",
-    image: "/images/hero-slide-5-dental-implants.png",
+    image: "/images/service-implants.png",
     url: "/services/dental-implants",
   },
   {
@@ -148,7 +159,7 @@ export const featuredServices = [
     heading: "INVISALIGN CLEAR BRACES — DISCREETLY STRAIGHTEN TEETH",
     body:
       "Virtually invisible aligners gradually straighten your teeth without metal wires or brackets. Available from $5,000.",
-    image: "/images/hero-slide-6-invisalign.png",
+    image: "/images/service-invisalign.jpg",
     url: "/services/invisalign",
   },
 ];

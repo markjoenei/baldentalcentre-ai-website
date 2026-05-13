@@ -2,6 +2,7 @@ import type { CSSProperties } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRightIcon, MapPinIcon } from "./icons";
+import { DIRECTIONS_URL } from "./data";
 
 function Sparkle({
   className = "",
@@ -48,19 +49,25 @@ export default function LocatedSection() {
           <p className="animate-fade-up mt-5 max-w-[580px] text-[14.5px] leading-[1.8] text-ink-muted lg:text-[15px]" style={{ animationDelay: "200ms" }}>
             Looking for a skilled sedation dentist in your area? Interested in sleep apnea
             treatment? Time for your six-month checkup and cleaning? We look forward to
-            welcoming you to our office at 4 Greystone Walk Dr #4, Scarborough, ON M1K 5J2,
-            Canada. You&apos;ll find us near Greystone Park, McDonald&apos;s, and IV bus Superstation.
+            welcoming you to our office at 4 Greystone Walk Dr #4 Scarborough, ON M1K 5J2.
+            You&apos;ll find us near Greystone Park, McDonald&apos;s, and IV bus Superstation.
           </p>
 
-          <div className="group animate-fade-up mt-6 flex items-start gap-3 rounded-2xl border border-cream-line bg-white/70 p-4 backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-gold/30 hover:shadow-card" style={{ animationDelay: "300ms" }}>
+          <a
+            href={DIRECTIONS_URL}
+            target="_blank"
+            rel="noreferrer noopener"
+            className="group animate-fade-up mt-6 flex items-start gap-3 rounded-2xl border border-cream-line bg-white/70 p-4 backdrop-blur-sm transition-all duration-300 hover:-translate-y-0.5 hover:border-gold/30 hover:shadow-card"
+            style={{ animationDelay: "300ms" }}
+          >
             <span className="mt-1 inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-gold/15 ring-1 ring-gold/30 transition-all duration-300 group-hover:bg-gold group-hover:ring-gold">
               <MapPinIcon className="h-3.5 w-3.5 fill-gold transition-colors duration-300 group-hover:fill-white" />
             </span>
             <div className="text-[13.5px] leading-[1.6] text-navy">
               <p className="font-semibold">4 Greystone Walk Dr #4</p>
-              <p className="text-ink-muted">Scarborough, ON M1K 5J2, Canada</p>
+              <p className="text-ink-muted">Scarborough, ON M1K 5J2</p>
             </div>
-          </div>
+          </a>
 
           <div className="animate-fade-up mt-7 flex flex-col gap-3 sm:flex-row" style={{ animationDelay: "400ms" }}>
             <Link
@@ -86,27 +93,14 @@ export default function LocatedSection() {
           <div className="pointer-events-none absolute -bottom-3 -right-3 h-16 w-16 rounded-br-3xl border-b-2 border-r-2 border-gold/40" />
           <div className="pointer-events-none absolute -right-6 top-1/3 h-14 w-14 animate-spin-slow rounded-full border-2 border-dashed border-gold/30" />
 
-          <div className="grid grid-cols-2 gap-3 lg:gap-4">
-            {[
-              { src: "/images/about-dental-near-you.png", alt: "Patient smile" },
-              { src: "/images/patient-smiles-collage-wide.png", alt: "Group of patients" },
-              { src: "/images/about-why-choose-sm.png", alt: "Senior couple" },
-              { src: "/images/hero-slide-6-invisalign.png", alt: "Smiling patient" },
-            ].map((img, i) => (
-              <div
-                key={i}
-                className="hover-lift animate-fade-up overflow-hidden rounded-2xl shadow-card ring-1 ring-white/40 hover:shadow-lift"
-                style={{ animationDelay: `${i * 100}ms` }}
-              >
-                <Image
-                  src={img.src}
-                  alt={img.alt}
-                  width={320}
-                  height={240}
-                  className="h-[180px] w-full object-cover transition-transform duration-700 hover:scale-110 sm:h-[200px]"
-                />
-              </div>
-            ))}
+          <div className="hover-lift animate-fade-up overflow-hidden rounded-3xl shadow-card ring-1 ring-white/40 hover:shadow-lift">
+            <Image
+              src="/images/located-family.jpg"
+              alt="Happy family near our Scarborough dental office"
+              width={1200}
+              height={900}
+              className="h-[360px] w-full object-cover transition-transform duration-700 hover:scale-105 sm:h-[440px] lg:h-[520px]"
+            />
           </div>
         </div>
       </div>

@@ -30,11 +30,21 @@ function Sparkle({
 export default function Hero() {
   return (
     <section className="relative w-full overflow-hidden bg-cream">
+      {/* Banner image background */}
+      <Image
+        src="/images/hero-banner.png"
+        alt="Smiling patient at Bal Dental Centre"
+        fill
+        priority
+        sizes="100vw"
+        className="pointer-events-none absolute inset-0 object-cover object-top"
+      />
+      {/* Soft overlay so text stays legible on the left */}
+      <div className="pointer-events-none absolute inset-0 bg-gradient-to-r from-cream via-cream/85 to-transparent" />
+
       {/* Decorative animated background */}
-      <div className="pointer-events-none absolute inset-0 bg-radial-gold opacity-80" />
       <div className="pointer-events-none absolute -left-32 -top-32 h-[420px] w-[420px] animate-blob bg-gold/[0.08] blur-3xl" />
       <div className="pointer-events-none absolute -right-32 bottom-0 h-[380px] w-[380px] animate-blob bg-navy/[0.05] blur-3xl" style={{ animationDelay: "3s" }} />
-      <div className="pointer-events-none absolute inset-0 bg-dot-pattern opacity-[0.35]" />
 
       {/* Floating sparkles */}
       <Sparkle className="pointer-events-none absolute left-[8%] top-[18%] h-4 w-4 animate-sparkle text-gold/70" />
@@ -42,8 +52,8 @@ export default function Hero() {
       <Sparkle className="pointer-events-none absolute right-[42%] top-[12%] h-2.5 w-2.5 animate-sparkle text-gold/60" style={{ animationDelay: "2s" }} />
       <Sparkle className="pointer-events-none absolute right-[8%] top-[8%] h-5 w-5 animate-sparkle text-gold/60" style={{ animationDelay: "0.6s" }} />
 
-      <div className="relative mx-auto flex max-w-[1280px] flex-col items-stretch gap-12 px-4 py-14 lg:flex-row lg:items-center lg:gap-14 lg:py-24">
-        <div className="flex flex-1 flex-col gap-5">
+      <div className="relative mx-auto flex h-screen max-w-[1280px] flex-col items-start justify-center gap-12 px-4 py-14 text-left lg:gap-14 lg:py-24">
+        <div className="flex max-w-[620px] flex-col items-start gap-5">
           <div className="animate-fade-up inline-flex items-center gap-3">
             <div className="relative">
               <div className="pointer-events-none absolute -inset-2 rounded-full bg-gold/15 blur-xl animate-glow-pulse" />
@@ -84,13 +94,13 @@ export default function Hero() {
           </p>
 
           <h1 className="animate-fade-up text-[36px] font-bold leading-[1.1] tracking-[-0.01em] text-navy sm:text-[44px] lg:text-[54px]" style={{ animationDelay: "120ms" }}>
-            Smile Brighter with{" "}
+            Smile Brighter with
+            <br />
             <span className="relative inline-block">
               <span className="relative z-10 text-gradient-gold">Dentist</span>
               <span className="absolute inset-x-0 bottom-1 -z-0 h-2.5 bg-gold/15 lg:h-3" />
               <Sparkle className="absolute -right-5 -top-2 h-4 w-4 animate-sparkle text-gold" style={{ animationDelay: "0.4s" }} />
             </span>
-            <br className="hidden sm:inline" />
             <span className="text-navy"> in Scarborough</span>
           </h1>
 
@@ -127,71 +137,6 @@ export default function Hero() {
               <PhoneIcon className="h-4 w-4 fill-gold transition-transform duration-300 group-hover:animate-wiggle" />
               {PHONE_DISPLAY}
             </a>
-          </div>
-        </div>
-
-        <div className="relative w-full shrink-0 lg:w-[560px]">
-          {/* Decorative corners */}
-          <div className="pointer-events-none absolute -left-3 -top-3 h-16 w-16 rounded-tl-3xl border-l-2 border-t-2 border-gold/40" />
-          <div className="pointer-events-none absolute -bottom-3 -right-3 h-16 w-16 rounded-br-3xl border-b-2 border-r-2 border-gold/40" />
-
-          {/* Floating decorative ring */}
-          <div className="pointer-events-none absolute -right-6 -top-6 h-20 w-20 animate-spin-slow rounded-full border-2 border-dashed border-gold/30" />
-
-          <div className="grid grid-cols-2 gap-3 lg:gap-4">
-            <div className="hover-lift animate-fade-up overflow-hidden rounded-2xl shadow-card ring-1 ring-white/40 hover:shadow-lift" style={{ animationDelay: "200ms" }}>
-              <Image
-                src="/images/patient-smiles-portrait.jpeg"
-                alt="Smiling patient"
-                width={380}
-                height={260}
-                className="h-[180px] w-full object-cover transition-transform duration-700 hover:scale-110 sm:h-[210px]"
-              />
-            </div>
-            <div className="hover-lift animate-fade-up relative overflow-hidden rounded-2xl shadow-card ring-1 ring-white/40 hover:shadow-lift" style={{ animationDelay: "320ms" }}>
-              <Image
-                src="/images/patient-smiles-collage-2.png"
-                alt="Happy patients"
-                width={380}
-                height={260}
-                className="h-[180px] w-full object-cover transition-transform duration-700 hover:scale-110 sm:h-[210px]"
-              />
-              <div className="absolute right-3 top-3 inline-flex items-center gap-1.5 rounded-full bg-white/95 px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider text-gold shadow-soft backdrop-blur-sm">
-                <span className="relative flex h-1.5 w-1.5">
-                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-500 opacity-75" />
-                  <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-green-500" />
-                </span>
-                Open Now
-              </div>
-            </div>
-            <div className="hover-lift animate-fade-up relative col-span-2 overflow-hidden rounded-2xl shadow-card ring-1 ring-white/40 hover:shadow-lift" style={{ animationDelay: "440ms" }}>
-              <Image
-                src="/images/patient-smiles-collage-wide.png"
-                alt="Group of patients smiling"
-                width={760}
-                height={260}
-                className="h-[200px] w-full object-cover transition-transform duration-700 hover:scale-105 sm:h-[220px]"
-              />
-              <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-navy/85 to-transparent p-4">
-                <div className="flex items-center gap-3">
-                  <div className="flex -space-x-2">
-                    {["/images/patient-smiles-portrait.jpeg", "/images/patient-smiles-collage-2.png", "/images/about-why-choose.png"].map((src, i) => (
-                      <Image
-                        key={i}
-                        src={src}
-                        alt=""
-                        width={32}
-                        height={32}
-                        className="h-8 w-8 rounded-full border-2 border-white object-cover transition-transform duration-300 hover:z-10 hover:scale-125"
-                      />
-                    ))}
-                  </div>
-                  <p className="text-[12px] font-medium text-white">
-                    Join <span className="font-bold text-gold-tint">1,000+</span> happy patients
-                  </p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>

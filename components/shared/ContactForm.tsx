@@ -3,26 +3,17 @@
 import { useState } from "react";
 import { ArrowRightIcon, CheckIcon } from "../icons";
 
-const reasons = [
-  "General question",
-  "Insurance / billing question",
-  "New patient inquiry",
-  "Existing patient inquiry",
-  "Feedback / review",
-  "Other",
-];
-
 export default function ContactForm() {
   const [submitted, setSubmitted] = useState(false);
   const [form, setForm] = useState({
-    name: "",
-    email: "",
+    firstName: "",
+    lastName: "",
     phone: "",
-    reason: "",
+    email: "",
     message: "",
   });
 
-  const onChange = (k: keyof typeof form) => (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
+  const onChange = (k: keyof typeof form) => (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     setForm((prev) => ({ ...prev, [k]: e.target.value }));
   };
 
@@ -41,7 +32,7 @@ export default function ContactForm() {
             <CheckIcon className="relative h-8 w-8 fill-white" />
           </span>
           <h2 className="text-[26px] font-bold leading-[1.2] tracking-[-0.01em] text-navy sm:text-[30px]">
-            Message sent, <span className="text-gradient-gold">{form.name.split(" ")[0] || "thank you!"}</span>
+            Message sent, <span className="text-gradient-gold">{form.firstName || "thank you!"}</span>
           </h2>
           <p className="max-w-[520px] text-[14.5px] leading-[1.7] text-ink-muted">
             We typically respond within <span className="font-semibold text-navy">1 business day</span>. Need an answer sooner? Call us at <span className="font-semibold text-navy">416-267-6789</span>.
@@ -64,13 +55,33 @@ export default function ContactForm() {
       className="relative overflow-hidden rounded-3xl border border-cream-line bg-white p-6 shadow-lift sm:p-8 lg:p-10"
     >
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
-        <Field label="Full Name" required>
+        <Field label="First Name" required>
           <input
             type="text"
             required
-            value={form.name}
-            onChange={onChange("name")}
-            placeholder="Jane Smith"
+            value={form.firstName}
+            onChange={onChange("firstName")}
+            placeholder="Jane"
+            className="input"
+          />
+        </Field>
+        <Field label="Last Name" required>
+          <input
+            type="text"
+            required
+            value={form.lastName}
+            onChange={onChange("lastName")}
+            placeholder="Smith"
+            className="input"
+          />
+        </Field>
+        <Field label="Phone Number" required>
+          <input
+            type="tel"
+            required
+            value={form.phone}
+            onChange={onChange("phone")}
+            placeholder="(416) 555-0123"
             className="input"
           />
         </Field>
@@ -84,27 +95,8 @@ export default function ContactForm() {
             className="input"
           />
         </Field>
-        <Field label="Phone Number">
-          <input
-            type="tel"
-            value={form.phone}
-            onChange={onChange("phone")}
-            placeholder="(416) 555-0123"
-            className="input"
-          />
-        </Field>
-        <Field label="Reason for Contact" required>
-          <select required value={form.reason} onChange={onChange("reason")} className="input">
-            <option value="">Choose a reason…</option>
-            {reasons.map((r) => (
-              <option key={r} value={r}>
-                {r}
-              </option>
-            ))}
-          </select>
-        </Field>
         <div className="sm:col-span-2">
-          <Field label="Your Message" required>
+          <Field label="Message" required>
             <textarea
               required
               rows={5}

@@ -50,9 +50,9 @@ export default function TourOffice() {
               <MapPinIcon className="h-[12px] w-[12px] fill-gold" />
             </span>
             <p className="text-[15px] leading-[1.65] text-cream/85">
-              4 Greystone Walk Dr #4, Scarborough,
+              4 Greystone Walk Dr #4 Scarborough,
               <br className="hidden sm:inline" />
-              {" "}ON M1K 5J2, Canada
+              {" "}ON M1K 5J2
             </p>
           </div>
           <a

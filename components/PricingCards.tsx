@@ -11,7 +11,7 @@ type Card = {
 };
 
 const cards: Card[] = [
-  { tag: "Holiday Special", price: "$3,999", sub: "Clear Aligners for Only", highlight: true, href: "/services/invisalign" },
+  { tag: "Holiday Special", price: "$3,999", sub: "Clear Aligners", highlight: true, href: "/services/invisalign" },
   { tag: "All Inclusive", price: "$5,000", sub: "Invisalign", href: "/services/invisalign" },
   { tag: "All Inclusive", price: "$3,000", sub: "Dental Implants", href: "/services/dental-implants" },
   { tag: "All Inclusive", price: "$99", sub: "Hygiene Services", href: "/services/preventive-dentistry" },
