@@ -39,9 +39,6 @@ export default function Hero() {
         sizes="100vw"
         className="pointer-events-none absolute inset-0 object-cover object-top"
       />
-      {/* Soft overlay so text stays legible on the left */}
-      <div className="pointer-events-none absolute inset-0 bg-gradient-to-r from-cream via-cream/85 to-transparent" />
-
       {/* Decorative animated background */}
       <div className="pointer-events-none absolute -left-32 -top-32 h-[420px] w-[420px] animate-blob bg-gold/[0.08] blur-3xl" />
       <div className="pointer-events-none absolute -right-32 bottom-0 h-[380px] w-[380px] animate-blob bg-navy/[0.05] blur-3xl" style={{ animationDelay: "3s" }} />
@@ -97,7 +94,7 @@ export default function Hero() {
             Smile Brighter with
             <br />
             <span className="relative inline-block">
-              <span className="relative z-10 text-gradient-gold">Dentist</span>
+              <span className="relative z-10 text-navy">Dentist</span>
               <span className="absolute inset-x-0 bottom-1 -z-0 h-2.5 bg-gold/15 lg:h-3" />
               <Sparkle className="absolute -right-5 -top-2 h-4 w-4 animate-sparkle text-gold" style={{ animationDelay: "0.4s" }} />
             </span>
