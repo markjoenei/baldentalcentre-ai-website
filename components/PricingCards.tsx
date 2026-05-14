@@ -11,10 +11,8 @@ type Card = {
 };
 
 const cards: Card[] = [
-  { tag: "", price: "$3,999", sub: "Clear Aligners", highlight: true, href: "/services/invisalign" },
-  { tag: "All Inclusive", price: "$5,000", sub: "Invisalign", href: "/services/invisalign" },
-  { tag: "All Inclusive", price: "$3,000", sub: "Dental Implants", href: "/services/dental-implants" },
-  { tag: "All Inclusive", price: "$99", sub: "Hygiene Services", href: "/services/preventive-dentistry" },
+  { tag: "", price: "$3,999", sub: "INVISALIGN / CLEAR ALIGNERS", highlight: true, href: "/services/invisalign" },
+  { tag: "Starting At", price: "$3,999", sub: "Dental Implants", href: "/services/dental-implants" },
 ];
 
 function Sparkle({
@@ -43,7 +41,7 @@ export default function PricingCards() {
       <Sparkle className="pointer-events-none absolute right-[8%] bottom-[20%] h-4 w-4 animate-sparkle text-gold/60" style={{ animationDelay: "1.3s" }} />
 
       <div className="relative mx-auto max-w-[1280px] px-4 py-12 lg:py-16">
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4 lg:gap-4">
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-2 lg:gap-4 lg:max-w-[700px] lg:mx-auto">
           {cards.map((c, i) => {
             const isGold = c.highlight;
             return (
@@ -64,13 +62,6 @@ export default function PricingCards() {
 
                 {isGold && (
                   <>
-                    <span className="absolute -top-2.5 right-4 inline-flex items-center gap-1 rounded-full bg-white px-2.5 py-1 text-[9px] font-bold uppercase tracking-[0.12em] text-gold shadow-soft">
-                      <span className="relative flex h-1.5 w-1.5">
-                        <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-gold opacity-75" />
-                        <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-gold" />
-                      </span>
-                      Limited Time
-                    </span>
                     <Sparkle className="absolute right-3 top-3 h-3 w-3 animate-sparkle text-white/80" />
                     <Sparkle className="absolute bottom-3 left-3 h-2.5 w-2.5 animate-sparkle text-white/70" style={{ animationDelay: "1s" }} />
                   </>
