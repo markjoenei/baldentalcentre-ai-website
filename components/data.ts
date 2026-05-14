@@ -165,13 +165,13 @@ export const featuredServices: FeaturedService[] = [
 ];
 
 export const officeHours: Array<[string, string]> = [
-  ["Monday", "9:00am – 7:00pm"],
-  ["Tuesday", "9:00am – 7:00pm"],
-  ["Wednesday", "9:00am – 7:00pm"],
-  ["Thursday", "9:00am – 7:00pm"],
-  ["Friday", "9:00am – 7:00pm"],
-  ["Saturday", "9:00am – 6:00pm"],
-  ["Sunday", "7 Days a Week"],
+  ["Monday", "9 a.m. – 7 p.m."],
+  ["Tuesday", "9 a.m. – 7 p.m."],
+  ["Wednesday", "9 a.m. – 7 p.m."],
+  ["Thursday", "9 a.m. – 7 p.m."],
+  ["Friday", "9 a.m. – 7 p.m."],
+  ["Saturday", "9 a.m. – 6 p.m."],
+  ["Sunday", "10 a.m. – 5 p.m."],
 ];
 
 export const languages = ["English", "Punjabi", "Hindi", "Bangoli", "Telugu", "Tagalog", "Cantonese"];
