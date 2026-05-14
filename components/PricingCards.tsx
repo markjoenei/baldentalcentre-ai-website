@@ -11,7 +11,6 @@ type Card = {
 };
 
 const cards: Card[] = [
-  { tag: "FREE", price: "$50", sub: "Gift Card", href: "/book-appointment" },
   { tag: "", price: "$3,999", sub: "INVISALIGN / CLEAR ALIGNERS", highlight: true, href: "/services/invisalign" },
   { tag: "Starting At", price: "$3,999", sub: "Dental Implants", href: "/services/dental-implants" },
 ];
@@ -42,7 +41,7 @@ export default function PricingCards() {
       <Sparkle className="pointer-events-none absolute right-[8%] bottom-[20%] h-4 w-4 animate-sparkle text-gold/60" style={{ animationDelay: "1.3s" }} />
 
       <div className="relative mx-auto max-w-[1280px] px-4 py-12 lg:py-16">
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-3 lg:grid-cols-3 lg:gap-4 lg:max-w-[900px] lg:mx-auto">
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-2 lg:gap-4 lg:max-w-[600px] lg:mx-auto">
           {cards.map((c, i) => {
             const isGold = c.highlight;
             return (
