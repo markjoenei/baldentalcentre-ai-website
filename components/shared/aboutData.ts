@@ -221,6 +221,7 @@ export const blogPosts = [
     readTime: "7 min read",
     date: "March 1, 2026",
     image: "/images-about/blog-6.jpg",
+    imagePosition: "object-[center_20%]",
   },
 ];
 

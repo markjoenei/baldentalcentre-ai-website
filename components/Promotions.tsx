@@ -8,22 +8,15 @@ const promos = [
     src: "/images/flipbox-dental-implants-front.jpg",
     alt: "Dental Implants Promotion",
     title: "Dental Implants",
-    tag: "From $3,000",
+    tag: "Starting at $3,999",
     href: "/services/dental-implants",
   },
   {
     src: "/images/flipbox-invisalign-front.jpg",
     alt: "Invisalign Promotion",
-    title: "Invisalign",
-    tag: "From $5,000",
+    title: "Invisalign / Clear Aligners",
+    tag: "Starting at $3,999",
     href: "/services/invisalign",
-  },
-  {
-    src: "/images/flipbox-hygiene-front.jpg",
-    alt: "Hygiene Services Promotion",
-    title: "Hygiene Services",
-    tag: "Only $99",
-    href: "/services/preventive-dentistry",
   },
 ];
 
@@ -69,7 +62,7 @@ export default function Promotions() {
             Save on the treatments you need most — exclusive offers from your Scarborough dentist.
           </p>
         </div>
-        <div className="grid grid-cols-1 gap-6 md:grid-cols-3 lg:gap-7">
+        <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:gap-7">
           {promos.map((p, i) => (
             <Link
               key={i}

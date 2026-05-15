@@ -3,8 +3,8 @@ export const PHONE_TEL = "+14162676789";
 export const PHONE_2_DISPLAY = "647-490-0674";
 export const PHONE_2_TEL = "+16474900674";
 export const EMAIL = "info@baldentalcentre.com";
-export const ADDRESS_LINE = "4 Greystone Walk Dr #4 Scarborough, ON M1K 5J2";
-export const ADDRESS_MULTI = ["4 Greystone Walk Dr #4", "Scarborough, ON M1K 5J2"];
+export const ADDRESS_LINE = "4 Greystone Walk Dr #4, Scarborough, ON M1K 5J2";
+export const ADDRESS_MULTI = ["4 Greystone Walk Dr #4,", "Scarborough, ON M1K 5J2"];
 export const BOOK_URL = "/book-appointment";
 export const REVIEW_URL =
   "https://chatrbee.com/recommend?Bal-Dental-Centre&name=aa&numb=00&uniquekey=Bal-Dental-Centre.108&code=T7aIVqEHY5kZxCy&useremail=email";

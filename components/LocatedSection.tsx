@@ -49,7 +49,7 @@ export default function LocatedSection() {
           <p className="animate-fade-up mt-5 max-w-[580px] text-[14.5px] leading-[1.8] text-ink-muted lg:text-[15px]" style={{ animationDelay: "200ms" }}>
             Looking for a skilled sedation dentist in your area? Interested in sleep apnea
             treatment? Time for your six-month checkup and cleaning? We look forward to
-            welcoming you to our office at 4 Greystone Walk Dr #4 Scarborough, ON M1K 5J2.
+            welcoming you to our office at 4 Greystone Walk Dr #4, Scarborough, ON M1K 5J2.
             You&apos;ll find us near Greystone Park, McDonald&apos;s, and IV bus Superstation.
           </p>
 
@@ -64,8 +64,8 @@ export default function LocatedSection() {
               <MapPinIcon className="h-3.5 w-3.5 fill-gold transition-colors duration-300 group-hover:fill-white" />
             </span>
             <div className="text-[13.5px] leading-[1.6] text-navy">
-              <p className="font-semibold">4 Greystone Walk Dr #4</p>
-              <p className="text-ink-muted">Scarborough, ON M1K 5J2</p>
+              <p className="font-semibold">4 Greystone Walk Dr #4, Scarborough,</p>
+              <p className="text-ink-muted">ON M1K 5J2</p>
             </div>
           </a>
 

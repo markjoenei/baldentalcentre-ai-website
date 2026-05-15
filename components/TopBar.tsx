@@ -5,7 +5,7 @@ export default function TopBar() {
   return (
     <div className="relative w-full overflow-hidden bg-navy-gradient text-cream">
       <div className="pointer-events-none absolute inset-y-0 right-0 w-1/2 bg-gradient-to-l from-gold/[0.08] to-transparent" />
-      <div className="relative mx-auto flex h-auto min-h-[44px] max-w-[1280px] flex-wrap items-center justify-between gap-y-2 px-4 py-2 md:h-[44px] md:flex-nowrap md:py-0">
+      <div className="relative mx-auto flex h-auto min-h-[44px] max-w-[1280px] flex-col items-center gap-y-2 px-4 py-2 md:h-[44px] md:flex-row md:justify-between md:py-0">
         <a
           href={DIRECTIONS_URL}
           target="_blank"
@@ -16,7 +16,7 @@ export default function TopBar() {
             <MapPinIcon className="h-[11px] w-[11px] fill-gold" />
           </span>
           <span className="hidden text-cream/90 sm:inline">{ADDRESS_LINE}</span>
-          <span className="text-cream/90 sm:hidden">4 Greystone Walk Dr #4 Scarborough</span>
+          <span className="text-cream/90 sm:hidden">4 Greystone Walk Dr #4, Scarborough, ON M1K 5J2</span>
         </a>
 
         <div className="flex items-center gap-3">

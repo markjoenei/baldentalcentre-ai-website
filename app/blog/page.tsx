@@ -18,16 +18,6 @@ export const metadata: Metadata = {
     "Honest, plain-English answers to your biggest dental questions — from same-day emergencies to whitening myths to Invisalign vs braces.",
 };
 
-const categories = [
-  "All",
-  "Preventive Care",
-  "Orthodontics",
-  "Implants",
-  "Cosmetic",
-  "Pediatric",
-  "Patient Comfort",
-];
-
 export default function BlogPage() {
   const featured = blogPosts.find((p) => p.featured) ?? blogPosts[0];
   const rest = blogPosts.filter((p) => p !== featured);
@@ -66,23 +56,6 @@ export default function BlogPage() {
         />
 
         <div className="relative mx-auto max-w-[1280px] px-4 py-20 lg:py-24">
-          {/* Category chips */}
-          <div className="mb-10 flex flex-wrap justify-center gap-2 lg:mb-12">
-            {categories.map((cat, i) => (
-              <button
-                key={cat}
-                type="button"
-                className={`inline-flex items-center gap-2 rounded-full px-5 py-2.5 text-[13px] font-semibold transition-all duration-300 ${
-                  i === 0
-                    ? "bg-gold text-white shadow-gold"
-                    : "border border-cream-line bg-white text-navy hover:-translate-y-0.5 hover:border-gold/30 hover:text-gold hover:shadow-soft"
-                }`}
-              >
-                {cat}
-              </button>
-            ))}
-          </div>
-
           {/* Featured post */}
           <a
             href={`#${featured.slug}`}
@@ -98,13 +71,6 @@ export default function BlogPage() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-navy/40 to-transparent" />
               <span className="pointer-events-none absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/20 to-transparent transition-transform duration-1000 group-hover:translate-x-full" />
-              <div className="absolute left-4 top-4 inline-flex items-center gap-1.5 rounded-full bg-white/95 px-3 py-1 text-[10.5px] font-bold uppercase tracking-[0.12em] text-gold shadow-soft backdrop-blur-sm">
-                <span className="relative flex h-1.5 w-1.5">
-                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-gold opacity-75" />
-                  <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-gold" />
-                </span>
-                Featured Post
-              </div>
             </div>
             <div className="flex flex-col justify-center p-8 lg:p-12">
               <div className="flex items-center gap-3 text-[11.5px] font-medium uppercase tracking-[0.12em] text-gold">
@@ -150,16 +116,11 @@ export default function BlogPage() {
                     src={post.image}
                     alt={post.title}
                     fill
-                    className="object-cover transition-transform duration-700 group-hover:scale-110"
+                    className={`object-cover transition-transform duration-700 group-hover:scale-110 ${post.imagePosition ?? "object-center"}`}
                     sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-navy/40 to-transparent opacity-60 transition-opacity duration-300 group-hover:opacity-80" />
                   <span className="pointer-events-none absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/20 to-transparent transition-transform duration-1000 group-hover:translate-x-full" />
-                  <div className="absolute left-3 top-3">
-                    <span className="inline-flex items-center gap-1 rounded-full bg-white/95 px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.12em] text-gold backdrop-blur-sm">
-                      {post.category}
-                    </span>
-                  </div>
                 </div>
                 <div className="flex flex-1 flex-col p-6">
                   <div className="flex items-center gap-2 text-[11.5px] font-medium text-ink-muted">

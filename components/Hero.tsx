@@ -37,7 +37,7 @@ export default function Hero() {
         fill
         priority
         sizes="100vw"
-        className="pointer-events-none absolute inset-0 object-cover object-top"
+        className="pointer-events-none absolute inset-0 object-cover object-left-top lg:object-top"
       />
       {/* Decorative animated background */}
       <div className="pointer-events-none absolute -left-32 -top-32 h-[420px] w-[420px] animate-blob bg-gold/[0.08] blur-3xl" />
@@ -49,7 +49,7 @@ export default function Hero() {
       <Sparkle className="pointer-events-none absolute right-[42%] top-[12%] h-2.5 w-2.5 animate-sparkle text-gold/60" style={{ animationDelay: "2s" }} />
       <Sparkle className="pointer-events-none absolute right-[8%] top-[8%] h-5 w-5 animate-sparkle text-gold/60" style={{ animationDelay: "0.6s" }} />
 
-      <div className="relative mx-auto flex h-screen max-w-[1280px] flex-col items-start justify-center gap-12 px-4 py-14 text-left lg:gap-14 lg:py-24">
+      <div className="relative mx-auto flex max-w-[1280px] flex-col items-start justify-center gap-12 px-4 py-5 text-left lg:h-screen lg:gap-14 lg:py-24">
         <div className="flex max-w-[620px] flex-col items-start gap-5">
           <div className="animate-fade-up inline-flex items-center gap-3">
             <div className="relative">
