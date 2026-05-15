@@ -4,8 +4,8 @@ import {
   ADDRESS_MULTI,
   DIRECTIONS_URL,
   EMAIL,
-  PHONE_2_DISPLAY,
-  PHONE_2_TEL,
+  PHONE_DISPLAY,
+  PHONE_TEL,
   REVIEW_URL,
   languages,
   officeHours,
@@ -28,13 +28,13 @@ export default function Footer() {
             </h3>
             <div className="mt-3 h-px w-10 bg-gold/40" />
             <a
-              href={`tel:${PHONE_2_TEL}`}
+              href={`tel:${PHONE_TEL}`}
               className="group mt-5 flex items-center gap-3 text-[18px] font-bold text-white transition-colors hover:text-gold"
             >
               <span className="relative inline-flex h-10 w-10 items-center justify-center rounded-full bg-gold shadow-gold transition-transform duration-300 group-hover:scale-105">
                 <PhoneIcon className="h-4 w-4 fill-white" />
               </span>
-              {PHONE_2_DISPLAY}
+              {PHONE_DISPLAY}
             </a>
 
             <h4 className="mt-8 text-[12px] font-bold uppercase tracking-[0.16em] text-gold">

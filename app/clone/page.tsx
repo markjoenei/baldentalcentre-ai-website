@@ -771,7 +771,6 @@ export default function ClonePage() {
               <div>
                 <h3 style={{ color: "#f7f5ea", fontSize: "18px", fontWeight: 600, marginBottom: "16px" }}>Contact Us</h3>
                 <div style={{ color: "#c8c4b8", fontSize: "14px", lineHeight: "2" }}>
-                  <a href="tel:+16474900674" style={{ color: "#f7f5ea", textDecoration: "none", display: "block" }} className="hover:text-[#a2844e]">647-490-0674</a>
                   <a href="tel:+14162676789" style={{ color: "#f7f5ea", textDecoration: "none", display: "block" }} className="hover:text-[#a2844e]">416-267-6789</a>
                   <a href="mailto:info@baldentalcentre.com" style={{ color: "#f7f5ea", textDecoration: "none", display: "block", wordBreak: "break-all" }} className="hover:text-[#a2844e]">info@baldentalcentre.com</a>
                   <div style={{ marginTop: "12px" }}>

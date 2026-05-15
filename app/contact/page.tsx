@@ -17,8 +17,6 @@ import {
   EMAIL,
   PHONE_DISPLAY,
   PHONE_TEL,
-  PHONE_2_DISPLAY,
-  PHONE_2_TEL,
   officeHours,
 } from "../../components/data";
 
@@ -37,11 +35,11 @@ const contactCards = [
     icon: "phone" as const,
   },
   {
-    eyebrow: "Call Us",
-    label: "Secondary",
-    value: PHONE_2_DISPLAY,
-    href: `tel:${PHONE_2_TEL}`,
-    icon: "phone" as const,
+    eyebrow: "Our Location",
+    label: "Get Directions",
+    value: ADDRESS_MULTI.join(", "),
+    href: DIRECTIONS_URL,
+    icon: "address" as const,
   },
   {
     eyebrow: "Email",
@@ -52,8 +50,9 @@ const contactCards = [
   },
 ];
 
-function ContactIcon({ kind, className }: { kind: "phone" | "mail"; className?: string }) {
+function ContactIcon({ kind, className }: { kind: "phone" | "mail" | "address"; className?: string }) {
   if (kind === "phone") return <PhoneIcon className={className} />;
+  if (kind === "address") return <MapPinIcon className={className} />;
   return (
     <svg viewBox="0 0 24 24" className={className} aria-hidden="true">
       <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" fill="currentColor" />
@@ -109,8 +108,10 @@ export default function ContactPage() {
           <div className="grid grid-cols-1 gap-5 md:grid-cols-3 lg:gap-6">
             {contactCards.map((c, i) => (
               <a
-                key={c.value}
+                key={c.eyebrow + c.label}
                 href={c.href}
+                target={c.icon === "address" ? "_blank" : undefined}
+                rel={c.icon === "address" ? "noopener noreferrer" : undefined}
                 className="group hover-lift animate-fade-up flex items-start gap-5 rounded-2xl border border-cream-line bg-white p-6 shadow-soft transition-all duration-300 hover:-translate-y-1 hover:border-gold/30 hover:shadow-lift"
                 style={{ animationDelay: `${i * 100}ms` }}
               >
